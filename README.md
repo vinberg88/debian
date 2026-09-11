@@ -143,8 +143,6 @@ First released in **1993**, Debian is known for stability, security, its huge so
 
 Debian is also the foundation for many other Linux distributions including Ubuntu, Linux Mint, MX Linux, Kali Linux and many others.
 
-Learn more at **[debian.org](https://www.debian.org/)**.
-
 ---
 
 ## ⭐ Project goal
@@ -160,7 +158,5 @@ More desktops, installation guides, screenshots and videos will be added as the 
 ### Debian + WSL2 + Linux Desktop 🐧 ❤️ 🪟
 
 Created and maintained by **[vinberg88](https://github.com/vinberg88)**
-
-*Community project — not affiliated with Debian or Microsoft.*
 
 </div>
