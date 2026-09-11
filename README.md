@@ -77,7 +77,7 @@ GNOME provides a modern and clean Linux desktop with excellent integration and a
 
 ---
 
-## KDE Plasma and Debian 14 - Run full desktop via DEBIAN 14 AND KDE 6
+## KDE Plasma and Debian 14 - Full desktop via DEBIAN 14 AND KDE 6
 
 <img width="1920" height="1080" alt="Debian14-KDE6" src="https://github.com/user-attachments/assets/7b3f6638-9bf4-48ca-8ba2-8495cf53b0d6" />
 
