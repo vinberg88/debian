@@ -76,7 +76,7 @@ GNOME provides a modern and clean Linux desktop with excellent integration and a
 
 ---
 
-## KDE Plasma
+## KDE Plasma and Debian 14
 
 KDE6 AND DEBIAN 14 - Comming SONE - HOW TO INSTALL KDE 6 AND SO ONE.
 
