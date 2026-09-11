@@ -83,9 +83,9 @@ GNOME provides a modern and clean Linux desktop with excellent integration and a
 
 KDE Plasma is a powerful and highly customizable desktop environment and works especially well when experimenting with full Linux desktops under WSL.
 
-📖 **Installation guide — coming soon** https://github.com/vinberg88/debian/blob/main/Debian14-KDE6.txt
+📖 **Installation guide — https://github.com/vinberg88/debian/blob/main/Debian14-KDE6.txt
 
-▶️ **YouTube video — coming soon**  https://www.youtube.com/watch?v=OA0Q3pQdLDE
+▶️ **YouTube video — https://www.youtube.com/watch?v=OA0Q3pQdLDE
 
 ---
 
