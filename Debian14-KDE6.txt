@@ -1,7 +1,7 @@
 Debian 14 and KDE 6 - How To install KDE plasma 6 via Debian 14 - Windows 11 - WSL - X410 - YouTUBE - 2026
 
 How to install KDE 6 via Debian 14 - WSL - TEXT VIA GITHUB
-Comming SONE..
+https://github.com/vinberg88/debian/blob/main/Debian14-KDE6.txt
 
 How to install KDE 6 via Debian 14 - WSL - Movie via YouTube
 https://www.youtube.com/watch?v=OA0Q3pQdLDE
