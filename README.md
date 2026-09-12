@@ -78,6 +78,7 @@ Each desktop section can include:
 GNOME provides a modern and clean Linux desktop with excellent integration and a large ecosystem of applications.
 
 📖 Installation guide — https://github.com/vinberg88/debian/blob/main/Debian13-Gnome.txt
+
 ▶️ YouTube video — https://www.youtube.com/watch?v=EMl5xf8n4BU
 
 ---
