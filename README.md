@@ -71,6 +71,17 @@ Each desktop section can include:
 
 ---
 
+## KDE 6 for Debian 13 - Full version of KDE 6 - Comming SONE. 
+
+<img width="1920" height="1080" alt="Debian-13-KDE" src="https://github.com/user-attachments/assets/a5c77b59-8009-4a88-aa47-a9c4aecd1a03" />
+
+Use KDE 6 for Debian 13 to surf the web, keep in touch with colleagues, manage your files, enjoy music and productive at work.
+
+📖 **Installation guide — coming soon**  
+▶️ **YouTube video — coming soon**
+
+---
+
 ## GNOME desktop for WSL - Full version of GNOME desktop via Debian 13 
 
 <img width="1920" height="1080" alt="Debian13-GNOME" src="https://github.com/user-attachments/assets/5d1585ce-984f-4b6b-8c03-7811f99a43f3" />
