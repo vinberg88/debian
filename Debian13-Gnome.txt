@@ -1,7 +1,7 @@
 Debian 13 and GNOME Desktop - WSL - How to install Gnome via Debian 13 - Windows 11 - YouTUBE - GITHUB - 2026
 
 How to install GNOME DESKTOP VIA Debian 13 - TEXT VIA GITHUB
-Comming SONE..
+https://github.com/vinberg88/debian/blob/main/Debian13-Gnome.txt
 
 How to install GNOME DESKTOP VIA Debian 13 - WSL - Movie via YouTUBE
 https://www.youtube.com/watch?v=EMl5xf8n4BU
