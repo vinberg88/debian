@@ -1,0 +1,369 @@
+Debian 13 and GNOME Desktop - WSL - How to install Gnome via Debian 13 - Windows 11 - YouTUBE - GITHUB - 2026
+
+How to install GNOME DESKTOP VIA Debian 13 - TEXT VIA GITHUB
+Comming SONE..
+
+How to install GNOME DESKTOP VIA Debian 13 - WSL - Movie via YouTUBE
+https://www.youtube.com/watch?v=EMl5xf8n4BU
+
+You can find Debian 13 and Debian 14 for WSL here: https://github.com/vinberg88/debian
+
+Here are more desktops for Linux - old page: https://github.com/vinberg88/opensuse
+
+Find More stuff about WSL AND ME VIA GitHUB: https://github.com/vinberg88
+
+TOOLS THAT I USE FOR MICROSOFT AND DEBIAN 13 AND GNOME - 2026 - KDE 6 - WSL - Microsoft
+
+X410 - Xserver for windows 11 - So you have a Desktop TO See in Windows 11.
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+Raft WSL - Handel WSL image easy and Linux for WSL and Windows 11.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL.
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
+
+                               DEBIAN 13 and GNOME desktop VIA WSL FOR WINDOWS 11 - 2026
+       _,met$$$$$gg.           
+    ,g$$$$$$$$$$$$$$$P.        MEDIA MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+  ,g$$P"        """Y$$.".   
+ ,$$P'              `$$$.      OS: Debian 13 (Trixie) WSL Base 0.1.0 x86_64
+',$$P       ,ggs.     `$$b:   
+`d$$'     ,$P"'   .    $$$     Host: Windows Subsystem for Linux - DS13 (2.9.10.0)
+ $$P      d$'     ,    $$P     
+ $$:      $$.   -    ,d$$'     Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+ $$;      Y$b._   _,d$P'       
+ Y$$.    `.`"Y$$$$P"'          OS: Windows 11 Pro for Workstations (25H2) x86_64
+ `$$b      "-.__               
+  `Y$$                         Debian 13 and Debian 14 - https://github.com/vinberg88/debian
+   `Y$$.                       
+     `$$b.                     EMAIL: mattiasvinberg@duck.com
+       `Y$$b.             
+          `"Y$b._              Find me here: https://github.com/vinberg88
+              `"""            
+                               ❤️ THANK YOU FOR TESTING DEBIAN 13 and GNOME desktop via WSL ❤️
+
+
+About Debian 13 - https://www.debian.org - 2026
+
+Debian is a popular and freely available computer 
+operating system that uses a Unix-like 
+kernel typically Linux alongside other program 
+components, many of which come from GNU Project. 
+Debian is one of the oldest, most respected, and most
+influential Linux operating systems in the world. First
+released in 1993, it is often referred to as "The Universal
+Operating System" because it can run on almost any 
+hardware, from tiny Raspberry Pi computers to massive 
+data center servers. Debian is developed by nearly 
+1,000 Active programmers from around the world who
+collectively form Debian Project. Name Debian 
+pronounced deb-EE-uhn -- is a portmanteau that blends
+the creator's first name, Ian, with that of his 
+wife, Debra.
+
+About Gnome Desktop for Debian 13 - https://www.gnome.org - 2026
+
+Get things done with ease, comfort, and control.
+An easy and elegant way to use your 
+computer, GNOME is designed to help you 
+have the best possible computing experience. 
+Every aspect of GNOME has been crafted to fit 
+together as a harmonious whole, providing a 
+consistent and integrated experience. 
+Our attention to detail means a smooth and 
+polished product that lets you do the things you 
+want without getting in the way. 
+GNOME is satisfying to use and beautiful 
+to behold.
+
+Want more stuff about WSL - Windows 11 - MICROSOFT - Linux - DESKTOPS - GNOME - DEBIAN 13
+
+https://github.com/vinberg88/opensuse or https://github.com/vinberg88
+
+-------------------------------------------------
+
+Time to start installation for GNOME desktop via DEBIAN 13 FOR WSL - 2026
+
+Download Debian 13 from this page https://github.com/vinberg88/debian
+
+After download press the BLUE ICON and you are almost done. Setup Username and Password.
+
+-------------------------------------------------
+
+UPDATE DEBIAN 13 TO LATEST DRIVERS FOR GNOME AND DEBIAN 13 - WSL - 2026
+
+Type in Terminal:
+
+sudo apt update
+sudo apt full-upgrade
+
+-------------------------------------------------
+
+Install Programs so we can fix DBUS error for DEBIAN 13
+
+sudo apt install dbus-broker* -y
+sudo apt install dbus-daemon* -y
+
+sudo systemctl disable dbus-broker
+sudo systemctl enable dbus
+
+sudo mkdir -p /run/dbus
+sudo chown messagebus:messagebus /run/dbus
+
+-------------------------------------------------
+
+Reboot Debian 13 - So your hostname changes to what you want - Reboot Debian 13 
+
+-------------------------------------------------
+
+                               DEBIAN 13 and GNOME desktop VIA WSL FOR WINDOWS 11 - 2026
+       _,met$$$$$gg.           
+    ,g$$$$$$$$$$$$$$$P.        MEDIA MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+  ,g$$P"        """Y$$.".   
+ ,$$P'              `$$$.      OS: Debian 13 (Trixie) WSL Base 0.1.0 x86_64
+',$$P       ,ggs.     `$$b:   
+`d$$'     ,$P"'   .    $$$     Host: Windows Subsystem for Linux - DS13 (2.9.10.0)
+ $$P      d$'     ,    $$P     
+ $$:      $$.   -    ,d$$'     Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+ $$;      Y$b._   _,d$P'       
+ Y$$.    `.`"Y$$$$P"'          OS: Windows 11 Pro for Workstations (25H2) x86_64
+ `$$b      "-.__               
+  `Y$$                         Debian 13 - https://github.com/vinberg88/debian
+   `Y$$.                       
+     `$$b.                     EMAIL: mattiasvinberg@duck.com
+       `Y$$b.             
+          `"Y$b._              Find me here: https://github.com/vinberg88
+              `"""            
+                               ❤️ THANK YOU FOR TESTING DEBIAN 13 and GNOME desktop via WSL ❤️
+
+-------------------------------------------------
+
+In terminal type: sudo nano ~/.bash_debian_desktop
+
+Paste this in terminal and save and quit.
+
+export XDG_SESSION_TYPE=x11
+export XDG_SESSION_CLASS=user
+export GDK_BACKEND=x11
+
+export LIBGL_ALWAYS_SOFTWARE=1
+
+-------------------------------------------------
+
+Fix IP problem for X410. Cant find screen problems and other stuff. IP is importent stuff.
+
+OPEN POWERSHELL FROM MICROSOFT AND TYPE: ipconfig
+
+NOTE - Importent to look for ip. Last lines are IP-numbers for WSL.
+
+SAVE IP HERE FROM POWERSHELL: 172.30.16.1
+
+GO BACK TO DEBIAN 12 Terminal AND COPY AND PASTE THIS IN TERMINAL.
+
+sudo apt install systemd-resolved chatt* e2fsprogs* -y
+
+sudo systemctl unmask systemd-resolved.service
+sudo systemctl enable systemd-resolved.service
+
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.30.16.1 <-- put your ip number here and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+sudo cat /etc/resolv.conf
+
+DONE - Problem fixed for DEBIAN 13 and GNOME desktop via WSL and X410 - 2026
+
+-------------------------------------------------
+
+Install fastfetch so we can see that we are on Debian 13 - Trixie
+
+sudo apt install fastfetch
+
+Type in terminal: fastfetch
+
+
+                               DEBIAN 13 and GNOME desktop VIA WSL FOR WINDOWS 11 - 2026
+       _,met$$$$$gg.           
+    ,g$$$$$$$$$$$$$$$P.        MEDIA MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+  ,g$$P"        """Y$$.".   
+ ,$$P'              `$$$.      OS: Debian 13 (Trixie) WSL Base 0.1.0 x86_64
+',$$P       ,ggs.     `$$b:   
+`d$$'     ,$P"'   .    $$$     Host: Windows Subsystem for Linux - DS13 (2.9.10.0)
+ $$P      d$'     ,    $$P     
+ $$:      $$.   -    ,d$$'     Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+ $$;      Y$b._   _,d$P'       
+ Y$$.    `.`"Y$$$$P"'          OS: Windows 11 Pro for Workstations (25H2) x86_64
+ `$$b      "-.__               
+  `Y$$                         Debian 13 - https://github.com/vinberg88/debian
+   `Y$$.                       
+     `$$b.                     EMAIL: mattiasvinberg@duck.com
+       `Y$$b.             
+          `"Y$b._              Find me here: https://github.com/vinberg88
+              `"""            
+                               ❤️ THANK YOU FOR TESTING DEBIAN 13 and GNOME desktop via WSL ❤️
+
+Extra Information - WSLg
+
+Architecture: x86_64
+Built: 2026-06-25T17:27:16
+OS: Microsoft Azure Linux 3.0 - Wayland
+wslg:            6942bb534b537302a7a22617261d9274db3cfa37
+DirectX-Headers: v1.608.0
+FreeRDP:         c4030980b29322a9cb2190711a5fadeeeb8b6a33
+mesa:            23.1.0
+pulseaudio:      c33051f2296af748ac5cd13e51abfac4d129e4c7
+weston:          a7e35fdab455dce5774b43b8aff682f748307e31
+
+-------------------------------------------------
+
+Install some basic programs for Debian 13 and Gnome Desktop. This will take some time.
+
+sudo apt install bash git npm wget curl dracut dbus* systemd dialog rsync -y
+sudo apt install gdm3* -y
+sudo apt install xorg* mutter* x11* mesa* weston* wayland* -y
+
+Always use GDM3 if you are asked under install of Debian 13 and Gnome desktop - 2026
+
+-------------------------------------------------
+
+Time to install GNOME desktop via DEBIAN 13
+
+sudo apt install task-gnome-desktop
+
+sudo apt install gnome*
+
+-------------------------------------------------
+
+Install Gimp for Debian 13 and GNOME desktop- So we can paint - WSL - 2026
+
+sudo apt install gimp 
+
+-------------------------------------------------
+
+Debian 13 loves LibreOffice so we can read text files and much more.
+
+sudo apt install libreoffice
+
+-------------------------------------------------
+
+Debian 13 and GNOME desktop for WSL - 2026
+
+Copy and Paste In Terminal:
+
+xdg-user-dirs-update
+sudo systemctl set-default multi-user.target
+sudo systemctl set-default graphical.target
+
+-------------------------------------------------
+
+                               DEBIAN 13 and GNOME desktop VIA WSL FOR WINDOWS 11 - 2026
+       _,met$$$$$gg.           
+    ,g$$$$$$$$$$$$$$$P.        MEDIA MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+  ,g$$P"        """Y$$.".   
+ ,$$P'              `$$$.      OS: Debian 13 (Trixie) WSL Base 0.1.0 x86_64
+',$$P       ,ggs.     `$$b:   
+`d$$'     ,$P"'   .    $$$     Host: Windows Subsystem for Linux - DS13 (2.9.10.0)
+ $$P      d$'     ,    $$P     
+ $$:      $$.   -    ,d$$'     Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+ $$;      Y$b._   _,d$P'       
+ Y$$.    `.`"Y$$$$P"'          OS: Windows 11 Pro for Workstations (25H2) x86_64
+ `$$b      "-.__               
+  `Y$$                         Debian 13 - https://github.com/vinberg88/debian
+   `Y$$.                       
+     `$$b.                     EMAIL: mattiasvinberg@duck.com
+       `Y$$b.             
+          `"Y$b._              Find me here: https://github.com/vinberg88
+              `"""            
+                               ❤️ THANK YOU FOR TESTING DEBIAN 13 and GNOME desktop via WSL ❤️
+
+Extra Information for WSLg
+
+Architecture: x86_64
+Built: 2026-06-25T17:27:16
+OS: Microsoft Azure Linux 3.0 - Wayland
+wslg:            6942bb534b537302a7a22617261d9274db3cfa37
+DirectX-Headers: v1.608.0
+FreeRDP:         c4030980b29322a9cb2190711a5fadeeeb8b6a33
+mesa:            23.1.0
+pulseaudio:      c33051f2296af748ac5cd13e51abfac4d129e4c7
+weston:          a7e35fdab455dce5774b43b8aff682f748307e31
+
+-------------------------------------------------
+
+Install Google-Chrome For DEBIAN 13 AND GNOME DESKTOP - WSL - 2026
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb -y
+
+-------------------------------------------------
+
+Install Blanket for debian 13 and Gnome desktop - Listen to Sound when you are working.
+
+sudo apt install blanket
+
+-------------------------------------------------
+
+Install Visual Studio Code from Microsoft - Latest version for DEBIAN 13 and KDE 6 desktop - 2026
+
+wget https://www.xhamster.nu/scripts/code_1.137.0-1788902055_amd64.deb
+sudo apt install ./code_1.137.0-1788902055_amd64.deb
+
+-------------------------------------------------
+
+Make an small script for Debian 13.
+
+Type this in terminal and put your username there: sudo loginctl enable-linger adolf
+
+-------------------------------------------------
+
+Debian 13 - Reboot Reboot Reboot Debian 13 - Reboot Reboot Reboot Debian 13
+
+-------------------------------------------------
+
+Time to start GNOME desktop via DEBIAN 13.
+
+
+NOTE: First start x410 and next you start DEBIAN 13 via Terminal.
+
+
+Paste in terminal: export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+
+Paste in terminal: . ~/.bash_debian_desktop
+
+Paste in terminal: dbus-launch gnome-session
+
+
+Wait when you start GNOME for the first time via Debian 13 - It will work fine via DEBIAN 13 - But it take some time to start.
+
+-------------------------------------------------
+
+Debian 13 is one of the oldest and most influential Linux distributions in the world - WSL - 2026
+                         
+                               DEBIAN 13 and GNOME desktop VIA WSL FOR WINDOWS 11 - 2026
+       _,met$$$$$gg.           
+    ,g$$$$$$$$$$$$$$$P.        MEDIA MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+  ,g$$P"        """Y$$.".   
+ ,$$P'              `$$$.      OS: Debian 13 (Trixie) WSL Base 0.1.0 x86_64
+',$$P       ,ggs.     `$$b:   
+`d$$'     ,$P"'   .    $$$     Host: Windows Subsystem for Linux - DS13 (2.9.10.0)
+ $$P      d$'     ,    $$P     
+ $$:      $$.   -    ,d$$'     Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+ $$;      Y$b._   _,d$P'       
+ Y$$.    `.`"Y$$$$P"'          OS: Windows 11 Pro for Workstations (25H2) x86_64
+ `$$b      "-.__               
+  `Y$$                         Debian 13 - https://github.com/vinberg88/debian
+   `Y$$.                       
+     `$$b.                     EMAIL: mattiasvinberg@duck.com
+       `Y$$b.             
+          `"Y$b._              Find me here: https://github.com/vinberg88
+              `"""            
+                               ❤️ THANK YOU FOR TESTING DEBIAN 13 and GNOME desktop via WSL ❤️
+
+Kind Regards Mattias Vinberg - Debian 13 - GNOME Desktop - SwEden - Stockholm - Microsoft - WSL - Linux - 2026
+
+-------------------------------------------------
