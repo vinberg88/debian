@@ -75,7 +75,7 @@ Each desktop section can include:
 
 <img width="1920" height="1080" alt="Debian-13-KDE" src="https://github.com/user-attachments/assets/a5c77b59-8009-4a88-aa47-a9c4aecd1a03" />
 
-Use KDE 6 for Debian 13 to surf the web, keep in touch with colleagues, manage your files, enjoy music and productive at work.
+Use KDE 6 for Debian 13 to surf the web, keep in touch with colleagues, manage your files and productive at work.
 
 📖 **Installation guide — coming soon**  
 ▶️ **YouTube video — coming soon**
