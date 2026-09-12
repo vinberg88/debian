@@ -71,9 +71,13 @@ Each desktop section can include:
 
 ---
 
-## GNOME
+## GNOME desktop via DEBIAN 13 - WSL
+
+Coming soon.. I am recording movie now.
 
 GNOME provides a modern and clean Linux desktop with excellent integration and a large ecosystem of applications.
+
+<img width="1920" height="1080" alt="Debian13-GNOME" src="https://github.com/user-attachments/assets/5d1585ce-984f-4b6b-8c03-7811f99a43f3" />
 
 📖 **Installation guide — coming soon**  
 ▶️ **YouTube video — coming soon**
