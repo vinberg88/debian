@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="747" height="351" alt="logadebina" src="https://github.com/user-attachments/assets/009a2b6b-cb08-446e-bfca-d884e1e67b0a" />
+
+
 # 🌀 Debian for WSL
 
 ### Debian 13 & Debian 14 for Windows Subsystem for Linux
