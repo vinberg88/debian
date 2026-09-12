@@ -86,9 +86,9 @@ GNOME provides a modern and clean Linux desktop with excellent integration and a
 
 ## KDE Plasma and Debian 14 - Full desktop via DEBIAN 14 AND KDE 6
 
-<img width="1920" height="1080" alt="Debian14-KDE6" src="https://github.com/user-attachments/assets/7b3f6638-9bf4-48ca-8ba2-8495cf53b0d6" />
-
 KDE Plasma is a powerful and highly customizable desktop environment and works especially well when experimenting with full Linux desktops under WSL.
+
+<img width="1920" height="1080" alt="Debian14-KDE6" src="https://github.com/user-attachments/assets/7b3f6638-9bf4-48ca-8ba2-8495cf53b0d6" />
 
 📖 Installation guide — https://github.com/vinberg88/debian/blob/main/Debian14-KDE6.txt
 
