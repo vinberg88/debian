@@ -8,6 +8,8 @@ Comming SONE...
 
 Download Debian 13 and 14 for WSL here to install on Windows 11: https://github.com/vinberg88/debian
 
+Read about start scrit for DEBIAN 13 and Desktops: https://github.com/vinberg88/debian-start-script
+
 TOOLS THAT I USE FOR MICROSOFT AND DEBIAN 13 AND Budgie desktop - 2026 - WSL - Microsoft
 
 X410 - Xserver for windows 11 - So you have a Desktop TO See in Windows 11.
