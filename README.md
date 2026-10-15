@@ -1,3 +1,9 @@
+
+FIRST INSTALL DESKTOP THEN YOU INSTALL THIS SCRIPT =}
+
+This script for DEBIAN 13/14 will make any desktop to start for WSL [Start scirpt for DEBIAN](https://github.com/vinberg88/debian-start-script)
+
+
 <div align="center">
 
 <img width="747" height="351" alt="logadebina" src="https://github.com/user-attachments/assets/009a2b6b-cb08-446e-bfca-d884e1e67b0a" />
