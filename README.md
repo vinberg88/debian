@@ -48,6 +48,7 @@ Both distributions are designed for WSL2 with **systemd**, Windows interoperabil
 Current images:
 
 ```text
+Debian12-WSL-Base.tar.gz
 Debian13-WSL-Base-0.1.0-x86_64.wsl
 Debian14-WSL-Base-0.1.2-x86_64.wsl
 ```
