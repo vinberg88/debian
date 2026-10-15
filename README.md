@@ -31,6 +31,7 @@ The goal is to keep the base installation clean and let you decide which desktop
 
 | Distribution | Release | WSL Base |
 |---|---|---|
+| **Debian 14 — Trixie** | Stable | ✅ Ready |
 | **Debian 13 — Trixie** | Stable | ✅ Ready |
 | **Debian 14 — Forky** | Testing | ✅ Ready |
 
