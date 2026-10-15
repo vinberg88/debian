@@ -85,6 +85,7 @@ Each desktop section can include:
 Make Budgie Your Own With our Budgie Desktop Settings application, you can make Budgie feel like home. Whether you want a dock or multiple panels, you can do it with just a few clicks.
 
 📖 Installation guide — https://github.com/vinberg88/debian/blob/main/DEBIAN-13-BUDGIE.txt 
+
 ▶️ **YouTube video — coming soon**
 
 ---
