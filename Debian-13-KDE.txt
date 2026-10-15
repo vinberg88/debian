@@ -1,7 +1,7 @@
 Debian 13 and KDE 6 - Install KDE 6 via Debian 13.7 on Windows 11 and WSL - X410 - YouTube - GitHUB - 2026
 
 How to install KDE 6 via Debian 13 - WSL - TEXT VIA GITHUB
-COMMING SONE..
+https://github.com/vinberg88/debian/blob/main/Debian-13-KDE.txt
 
 How to install KDE 6 via Debian 13 - WSL - MOVIE VIA YOUTUBE
 COMMING SONE..
