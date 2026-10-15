@@ -75,6 +75,17 @@ Each desktop section can include:
 
 ---
 
+## BUDGIE for Debian 13 - WORKING ON THAT NOW. 
+
+<img width="1920" height="1080" alt="Debian-13-BUDGIE" src="https://github.com/user-attachments/assets/a7ccf9e3-e9b7-4507-a873-014b7b8e0cc1" />
+
+Make Budgie Your Own With our Budgie Desktop Settings application, you can make Budgie feel like home. Whether you want a dock or multiple panels, you can do it with just a few clicks.
+
+📖 **Installation guide — coming soon**  
+▶️ **YouTube video — coming soon**
+
+---
+
 ## KDE 6 for Debian 13 - Full version of KDE 6 - Comming SONE. 
 
 <img width="1920" height="1080" alt="Debian-13-KDE" src="https://github.com/user-attachments/assets/a5c77b59-8009-4a88-aa47-a9c4aecd1a03" />
