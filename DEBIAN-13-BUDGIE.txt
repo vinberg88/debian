@@ -303,7 +303,7 @@ export LIBGL_ALWAYS_SOFTWARE=1
 
 Last thing to install is this script for DEBIAN 13 so BUDGIE STARTS
 
-Copy and paste all in terminal for DEBIAN 13.
+Copy and paste all in terminal for DEBIAN 13. Read about start scrit: https://github.com/vinberg88/debian-start-script
 
 sudo apt update
 sudo apt install -y git daemonize procps sudo systemd util-linux
@@ -339,10 +339,6 @@ sudo sed -i '/^[[:space:]]*source \/usr\/sbin\/start-systemd-namespace[[:space:]
 grep -qxF '[ -r /usr/sbin/start-systemd-namespace ] && source /usr/sbin/start-systemd-namespace' /etc/bash.bashrc ||
   printf '\n# Start or enter the systemd namespace in WSL2\n[ -r /usr/sbin/start-systemd-namespace ] && source /usr/sbin/start-systemd-namespace\n' |
   sudo tee -a /etc/bash.bashrc >/dev/null
-
-
-Read more about start scrit here: https://github.com/vinberg88/debian-start-script
-
 
 -------------------------------------------
 
