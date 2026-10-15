@@ -1,0 +1,390 @@
+DEBIAN 13 and BUDGIE - How to install BUDGIE DESKTOP via DEBIAN 13 WSL and Windows 11 - X410 - YouTUBE - GitHUB - 2026
+
+How to install Budgie Desktop via DEBIAN 13 - WSL - TEXT via GitHUB
+Comming SONE...
+
+How to install Budgie Desktop via DEBIAN 13 - Movie On Youtube.
+Comming SONE...
+
+Download Debian 13 and 14 for WSL here to install on Windows 11: https://github.com/vinberg88/debian
+
+TOOLS THAT I USE FOR MICROSOFT AND DEBIAN 13 AND Budgie desktop - 2026 - WSL - Microsoft
+
+X410 - Xserver for windows 11 - So you have a Desktop TO See in Windows 11.
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+Raft WSL - Handel WSL image easy and Linux for WSL and Windows 11.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL.
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE                                
+
+        _,met$$$$$gg.          
+     ,g$$$$$$$$$$$$$$$P.       OS: Debian GNU/Linux 13 (trixie) x86_64
+   ,g$$P""       """Y$$.".     
+  ,$$P'              `$$$.     Host: Windows Subsystem for Linux - DS13 (3.0.3.0)
+',$$P       ,ggs.     `$$b:    
+`d$$'     ,$P"'   .    $$$     Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+ $$P      d$'     ,    $$P     
+ $$:      $$.   -    ,d$$'     MEDIA MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+ $$;      Y$b._   _,d$P'       
+ Y$$.    `.`"Y$$$$P"'          OS: Windows 11 Pro for Workstations (26H2) x86_64
+ `$$b      "-.__               
+  `Y$$b                        Debian 13 and Debian 14 - https://github.com/vinberg88/debian
+   `Y$$.                       
+     `$$b.                     MAIL: mattiasvinberg@duck.com
+       `Y$$b.                  
+         `"Y$b._               Find more for WSL: https://github.com/vinberg88
+             `""""             
+                               ❤️ THANK YOU FOR TESTING DEBIAN 13 and BUDIGE via WSL ❤️ 
+
+You will find DEBIAN 13 here for WSL - https://github.com/vinberg88/debian                 
+
+About DEBIAN - 2026 - https://www.debian.org
+
+Debian is a popular and freely available computer
+operating system (OS) that uses a Unix-like
+kernel-- typically Linux -- alongside other program
+components, many of which come from GNU Project. 
+Debian can be downloaded over the internet or, for
+a small charge, obtained on CD, DVD, Blu-ray disc or
+USB flash drive. Of course, the thing that people
+want is application software: programs to help them
+get what they want to do done, from editing documents
+to running a business to playing games to Writing
+more software. Debian comes with over 59000 packages
+(precompiled software that is bundled up in a nice
+format for easy installation on your machine), a
+package manager (APT), and other utilities that
+make it possible to manage thousands of packages
+on thousands of computers as easily as installing
+a single application. All of it free. 
+
+ABOUT BUDGIE DESKTOP - 2026 - https://buddiesofbudgie.org
+
+Budgie Menu shows you all your installed applications,
+neatly organized into categories to improve discoverability,
+and with lightning fast application searching! No more
+diving into sub-menus to find the app you need. Make Budgie Your Own
+With our Budgie Desktop Settings application, you can make
+Budgie feel like home. Whether you want a dock or multiple
+panels, you can do it with just a few clicks. Budgie is
+available on a wide variety of operating systems, from Arch
+Linux to Ubuntu, and everything in between. Try it out today
+on the flavor of Linux of your choosing.
+
+Find More Here About WSL and Linux for Windows 11..
+
+Old page - See More Desktops to WSL: https://github.com/vinberg88/opensuse
+
+Find More WSL and Linux desktop to windows: https://github.com/vinberg88
+
+Debian 13 and Debian 14 - https://github.com/vinberg88/debian
+
+--------------------------------------------
+
+Download DEBIAN 13 here for WSL: https://github.com/vinberg88/debian
+
+Press on the BLUE ICON and you are done - DEBIAN 13 for WSL will setup User and Password.
+
+Change dir to home dir: cd
+
+--------------------------------------------
+
+Update All after install - Debian 13
+
+sudo apt update && sudo apt upgrade -y
+
+--------------------------------------------
+
+Install some Basic Programs for DEBIAN 13 and BUDIGE Desktop.
+
+sudo apt install ibus bash git npm wget curl pipx dracut dbus* systemd dialog rsync systemd-resolved -y
+
+----------------------------------------------
+
+Next copy and paste this in terminal for Debian 13. You will see some red text. Dont worry it works after reboot.
+
+sudo systemctl disable --now dbus-broker.service
+sudo systemctl enable --now dbus.service
+sudo systemctl restart dbus.service
+
+--------------------------------------------
+
+REBOOT Debian 13 - REBOOT Debian 13 - REBOOT Debian 13
+
+--------------------------------------------
+
+        _,met$$$$$gg.          
+     ,g$$$$$$$$$$$$$$$P.       OS: Debian GNU/Linux 13 (trixie) x86_64
+   ,g$$P""       """Y$$.".     
+  ,$$P'              `$$$.     Host: Windows Subsystem for Linux - DS13 (3.0.3.0)
+',$$P       ,ggs.     `$$b:    
+`d$$'     ,$P"'   .    $$$     Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+ $$P      d$'     ,    $$P     
+ $$:      $$.   -    ,d$$'     MEDIA MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+ $$;      Y$b._   _,d$P'       
+ Y$$.    `.`"Y$$$$P"'          OS: Windows 11 Pro for Workstations (26H2) x86_64
+ `$$b      "-.__               
+  `Y$$b                        Debian 13 and Debian 14 - https://github.com/vinberg88/debian
+   `Y$$.                       
+     `$$b.                     MAIL: mattiasvinberg@duck.com
+       `Y$$b.                  
+         `"Y$b._               Find more for WSL: https://github.com/vinberg88
+             `""""             
+                               ❤️ THANK YOU FOR TESTING DEBIAN 13 and BUDIGE via WSL ❤️ 
+
+--------------------------------------------
+
+Install some programs and setup GDM for BUDGIE desktop - Debian 13 - 2026 - WSL
+
+sudo apt install dracut pipewire* -y
+sudo service dbus start
+sudo apt install gdm3* -y
+sudo apt install gdm* -y
+sudo apt install xorg* -y
+sudo apt install daemonize gnome-terminal -y
+
+--------------------------------------------
+
+Time to install fastfetch - DEBIAN 13 - WSL - BUDGIE
+
+sudo apt install fastfetch 
+
+To test type in terminal: fastfetch
+
+
+        _,met$$$$$gg.          
+     ,g$$$$$$$$$$$$$$$P.       OS: Debian GNU/Linux 13 (trixie) x86_64
+   ,g$$P""       """Y$$.".     
+  ,$$P'              `$$$.     Host: Windows Subsystem for Linux - DS13 (3.0.3.0)
+',$$P       ,ggs.     `$$b:    
+`d$$'     ,$P"'   .    $$$     Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+ $$P      d$'     ,    $$P     
+ $$:      $$.   -    ,d$$'     MEDIA MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+ $$;      Y$b._   _,d$P'       
+ Y$$.    `.`"Y$$$$P"'          OS: Windows 11 Pro for Workstations (26H2) x86_64
+ `$$b      "-.__               
+  `Y$$b                        Debian 13 and Debian 14 - https://github.com/vinberg88/debian
+   `Y$$.                       
+     `$$b.                     MAIL: mattiasvinberg@duck.com
+       `Y$$b.                  
+         `"Y$b._               Find more for WSL: https://github.com/vinberg88
+             `""""             
+                               ❤️ THANK YOU FOR TESTING DEBIAN 13 and BUDIGE via WSL ❤️ 
+
+--------------------------------------------
+
+Install Google Chrome Browser - Best browser for Linux and Debian 13
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb -y
+
+--------------------------------------------
+
+Install Blanket if you Want! - Listen to Sounds - Debian 13 Trixie
+
+sudo apt install blanket
+
+--------------------------------------------
+
+Next install BUDGIE Desktop for Debian 13 - WSL - BUDGIE Desktop.
+
+sudo apt install --install-suggests budgie-desktop <-- big install
+
+sudo apt install budgie-desktop  <-- normal install.
+
+sudo apt install budgie*
+
+Select GDM3 if asked under installation.
+
+--------------------------------------------
+
+Install small but nice Tools for Debian 13 
+
+sudo apt install gtk* qt5* -y
+
+Run this in terminal: sudo fc-cache -f -v
+
+--------------------------------------------
+
+Install Gimp for Debian 13 so we can paint - Budgie desktop.
+
+sudo apt install gimp
+
+--------------------------------------------
+
+Install LibreOFFICE for Debian 13 - office that we need - Budgie desktop.
+
+sudo apt install libreoffice
+
+-------------------------------------------
+
+Fix IP problem for X410. Cant find screen problem. Look for ip adress in windows terminal / PowerShell: ipconfig
+
+NOTE - Importent to look for ip.
+
+START POWERSHELL VIA MICROSOFT AND TYPE: ipconfig
+
+Last lines are IP-numbers for WSL in POWERSHELL.
+
+SAVE IP FROM POWERSHELL HERE: 172.30.16.1
+
+NOW GO BACK TO Debian13 TERMINAL and paste this.
+
+sudo systemctl unmask systemd-resolved.service
+sudo systemctl enable systemd-resolved.service
+
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.30.16.1 <-- put your ip here and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+sudo cat /etc/resolv.conf
+
+DONE - alot of problem fixed =]
+
+-------------------------------------------
+
+        _,met$$$$$gg.          
+     ,g$$$$$$$$$$$$$$$P.       OS: Debian GNU/Linux 13 (trixie) x86_64
+   ,g$$P""       """Y$$.".     
+  ,$$P'              `$$$.     Host: Windows Subsystem for Linux - DS13 (3.0.3.0)
+',$$P       ,ggs.     `$$b:    
+`d$$'     ,$P"'   .    $$$     Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+ $$P      d$'     ,    $$P     
+ $$:      $$.   -    ,d$$'     MEDIA MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+ $$;      Y$b._   _,d$P'       
+ Y$$.    `.`"Y$$$$P"'          OS: Windows 11 Pro for Workstations (26H2) x86_64
+ `$$b      "-.__               
+  `Y$$b                        Debian 13 and Debian 14 - https://github.com/vinberg88/debian
+   `Y$$.                       
+     `$$b.                     MAIL: mattiasvinberg@duck.com
+       `Y$$b.                  
+         `"Y$b._               Find more for WSL: https://github.com/vinberg88
+             `""""             
+                               ❤️ THANK YOU FOR TESTING DEBIAN 13 and BUDIGE via WSL ❤️                   
+
+-------------------------------------------
+
+Paste in Terminal and Press enter - BUDGIE - 2026 - DEBIAN 13
+
+xdg-user-dirs-update
+sudo systemctl set-default multi-user.target
+sudo systemctl set-default graphical.target
+sudo ln -fs /usr/lib/systemd/system/graphical.target /etc/systemd/system/default.target
+
+-------------------------------------------
+
+Paste in Terminal and add username - 2026 - DEBIAN 13
+
+Type this in terminal and put your username there for Linux: sudo loginctl enable-linger adolf
+
+-------------------------------------------
+
+Make a small script for DEBIAN 13 - 2026
+
+In terminal type: sudo nano ~/.bash_Debian_desktop
+
+Paste this small script in terminal and save and quit nano.
+
+GNOME_SHELL_SESSION_MODE=Budgie:GNOME
+
+export XDG_SESSION_TYPE=x11
+export XDG_SESSION_CLASS=user
+export GDK_BACKEND=x11
+
+export LIBGL_ALWAYS_SOFTWARE=1
+
+-------------------------------------------
+
+Last thing to install is this script for DEBIAN 13 so BUDGIE STARTS
+
+Copy and paste all in terminal for DEBIAN 13.
+
+sudo apt update
+sudo apt install -y git daemonize procps sudo systemd util-linux
+
+cd ~
+git clone https://github.com/vinberg88/debian-start-script.git
+cd debian-start-script
+
+sudo install -o root -g root -m 0644 start-systemd-namespace /usr/sbin/start-systemd-namespace
+sudo install -o root -g root -m 0755 enter-systemd-namespace /usr/sbin/enter-systemd-namespace
+
+sudo tee /etc/sudoers.d/systemd-namespace >/dev/null <<'EOF'
+Defaults env_keep += WSLPATH
+Defaults env_keep += WSLENV
+Defaults env_keep += WSL_INTEROP
+Defaults env_keep += WSL_DISTRO_NAME
+Defaults env_keep += PRE_NAMESPACE_PATH
+Defaults env_keep += PRE_NAMESPACE_PWD
+%sudo ALL=(ALL) NOPASSWD: /usr/sbin/enter-systemd-namespace
+EOF
+sudo chmod 0440 /etc/sudoers.d/systemd-namespace
+sudo visudo -cf /etc/sudoers.d/systemd-namespace
+
+if grep -qE '^[[:space:]]*systemd[[:space:]]*=' /etc/wsl.conf 2>/dev/null; then
+  sudo sed -i 's/^[[:space:]]*systemd[[:space:]]*=.*/systemd=false/' /etc/wsl.conf
+elif grep -q '^\[boot\]' /etc/wsl.conf 2>/dev/null; then
+  sudo sed -i '/^\[boot\]/a systemd=false' /etc/wsl.conf
+else
+  printf '\n[boot]\nsystemd=false\n' | sudo tee -a /etc/wsl.conf >/dev/null
+fi
+
+sudo sed -i '/^[[:space:]]*source \/usr\/sbin\/start-systemd-namespace[[:space:]]*$/d' /etc/bash.bashrc
+grep -qxF '[ -r /usr/sbin/start-systemd-namespace ] && source /usr/sbin/start-systemd-namespace' /etc/bash.bashrc ||
+  printf '\n# Start or enter the systemd namespace in WSL2\n[ -r /usr/sbin/start-systemd-namespace ] && source /usr/sbin/start-systemd-namespace\n' |
+  sudo tee -a /etc/bash.bashrc >/dev/null
+
+
+Read more about start scrit here: https://github.com/vinberg88/debian-start-script
+
+
+-------------------------------------------
+
+DEBIAN Reboot Reboot Reboot Reboot Reboot - DEBIAN 13 - 2026
+
+-------------------------------------------
+
+First start X410 then Start Debian 13 trixie via terminal - BUDGIE DESKTOP - 2026
+
+
+Paste in terminal: export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+
+Copy and Paste: . ~/.bash_Debian_desktop
+
+Paste in terminal: xhost +
+
+Start Terminal or Desktop:  budgie-desktop
+
+JUST WAIT IT TAKE SOME TIME TO START BUGIE - NO STRESS - DEBIAN 13.
+
+-------------------------------------------
+
+        _,met$$$$$gg.          
+     ,g$$$$$$$$$$$$$$$P.       OS: Debian GNU/Linux 13 (trixie) x86_64
+   ,g$$P""       """Y$$.".     
+  ,$$P'              `$$$.     Host: Windows Subsystem for Linux - DS13 (3.0.3.0)
+',$$P       ,ggs.     `$$b:    
+`d$$'     ,$P"'   .    $$$     Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+ $$P      d$'     ,    $$P     
+ $$:      $$.   -    ,d$$'     MEDIA MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+ $$;      Y$b._   _,d$P'       
+ Y$$.    `.`"Y$$$$P"'          OS: Windows 11 Pro for Workstations (26H2) x86_64
+ `$$b      "-.__               
+  `Y$$b                        Debian 13 and Debian 14 - https://github.com/vinberg88/debian
+   `Y$$.                       
+     `$$b.                     MAIL: mattiasvinberg@duck.com
+       `Y$$b.                  
+         `"Y$b._               Find more for WSL: https://github.com/vinberg88
+             `""""             
+                               ❤️ THANK YOU FOR TESTING DEBIAN 13 and BUDIGE via WSL ❤️ 
+
+
+Regards Mattias Vinberg - BUDGIE - DEBIAN 13 - WSL - x410 - Windows 11 - Linux - 2026 - SWEDEN
+
+-------------------------------------------
