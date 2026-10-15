@@ -87,7 +87,7 @@ Make Budgie Your Own With our Budgie Desktop Settings application, you can make 
 
 📖 Installation guide — https://github.com/vinberg88/debian/blob/main/DEBIAN-13-BUDGIE.txt 
 
-▶️ **YouTube video — coming soon**
+▶️ YouTube video — https://www.youtube.com/watch?v=tIaH--0OECE
 
 ---
 
