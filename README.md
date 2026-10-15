@@ -79,7 +79,7 @@ Each desktop section can include:
 
 ---
 
-## BUDGIE for Debian 13 - WORKING ON THAT NOW. 
+## BUDGIE for Debian 13. Work well via WSL2
 
 <img width="1920" height="1080" alt="Debian-13-BUDGIE" src="https://github.com/user-attachments/assets/a7ccf9e3-e9b7-4507-a873-014b7b8e0cc1" />
 
