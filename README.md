@@ -97,7 +97,8 @@ Make Budgie Your Own With our Budgie Desktop Settings application, you can make 
 
 Use KDE 6 for Debian 13 to surf the web, keep in touch with colleagues, manage your files and productive at work.
 
-📖 **Installation guide — coming soon**  
+📖 Installation guide — https://github.com/vinberg88/debian/blob/main/Debian-13-KDE.txt
+
 ▶️ **YouTube video — coming soon**
 
 ---
