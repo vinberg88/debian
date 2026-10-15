@@ -1,7 +1,7 @@
 DEBIAN 13 and BUDGIE - How to install BUDGIE DESKTOP via DEBIAN 13 WSL and Windows 11 - X410 - YouTUBE - GitHUB - 2026
 
 How to install Budgie Desktop via DEBIAN 13 - WSL - TEXT via GitHUB
-Comming SONE...
+https://github.com/vinberg88/debian/blob/main/DEBIAN-13-BUDGIE.txt
 
 How to install Budgie Desktop via DEBIAN 13 - Movie On Youtube.
 Comming SONE...
