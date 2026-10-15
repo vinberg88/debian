@@ -1,0 +1,391 @@
+Debian 13 and KDE 6 - Install KDE 6 via Debian 13.7 on Windows 11 and WSL - X410 - YouTube - GitHUB - 2026
+
+How to install KDE 6 via Debian 13 - WSL - TEXT VIA GITHUB
+COMMING SONE..
+
+How to install KDE 6 via Debian 13 - WSL - MOVIE VIA YOUTUBE
+COMMING SONE..
+
+Debian 13 and Debian 14 for WSL here to install: https://github.com/vinberg88/debian
+
+TOOLS THAT I USE FOR MICROSOFT AND DEBIAN 13 AND KDE 6 - 2026 - WSL - Microsoft
+
+X410 - Xserver for windows 11 - So you have a Desktop TO See in Windows 11.
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+Raft WSL - Handel WSL image easy and Linux for WSL and Windows 11.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL.
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
+
+
+                               DEBIAN 13.7 and KDE 6 VIA WSL FOR WINDOWS 11 - 2026
+       _,met$$$$$gg.           
+    ,g$$$$$$$$$$$$$$$P.        MEDIA MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+  ,g$$P"        """Y$$.".   
+ ,$$P'              `$$$.      OS: Debian GNU/Linux 13 (trixie) x86_64
+',$$P       ,ggs.     `$$b:   
+`d$$'     ,$P"'   .    $$$     Host: Windows Subsystem for Linux - DS13 (3.0.3.0)
+ $$P      d$'     ,    $$P     
+ $$:      $$.   -    ,d$$'     KKernel: Linux 6.18.54.1-microsoft-standard-WSL2
+ $$;      Y$b._   _,d$P'       
+ Y$$.    `.`"Y$$$$P"'          OS: Windows 11 Pro for Workstations (26H2) x86_64
+ `$$b      "-.__               
+  `Y$$                         Debian 13 and Debian 14 - https://github.com/vinberg88/debian
+   `Y$$.                       
+     `$$b.                     EMAIL: mattiasvinberg@duck.com
+       `Y$$b.             
+          `"Y$b._              Find more for WSL: https://github.com/vinberg88
+              `"""            
+                               ❤️ THANK YOU FOR TESTING DEBIAN 13 and KDE 6 via WSL ❤️
+
+
+About Debian 13 - https://www.debian.org - 2026
+
+Debian is a popular and freely available computer 
+operating system that uses a Unix-like 
+kernel typically Linux alongside other program 
+components, many of which come from GNU Project. 
+Debian is one of the oldest, most respected, and most
+influential Linux operating systems in the world. First
+released in 1993, it is often referred to as "The Universal
+Operating System" because it can run on almost any 
+hardware, from tiny Raspberry Pi computers to massive 
+data center servers. Debian is developed by nearly 
+1,000 Active programmers from around the world who
+collectively form Debian Project. Name Debian 
+pronounced deb-EE-uhn -- is a portmanteau that blends
+the creator's first name, Ian, with that of his 
+wife, Debra.
+
+ABOUT KDE 6 PLASMA for DEBIAN 13 - https://kde.org - WSL - 2026
+
+KDE is an international team co-operating on 
+development and distribution of Free, Open
+Source Software for desktop and portable
+computing. Our community has developed a
+wide variety of applications for communication, 
+work, education and entertainment. We have a
+strong focus on finding innovative solutions to
+old and new problems, creating a vibrant, open
+atmosphere for experimentation. KDE is The 
+next generation desktop for Linux. Use KDE
+software to surf the web, keep in touch with
+colleagues, friends and family, manage your
+files, enjoy music and videos; and get creative
+and productive at work. The KDE community develops
+and maintains more than 200 applications
+which run on any Linux desktop, and often
+other platforms too.
+
+Find More Here About WSL and Linux for Windows 11..
+
+Old page - See More Desktops to WSL: https://github.com/vinberg88/opensuse
+
+Find More WSL and Linux desktop to windows: https://github.com/vinberg88
+
+Debian 13 and Debian 14 - https://github.com/vinberg88/debian
+
+-------------------------------
+
+After download press the BLUE Icon and you are den =)
+
+Find Debian 13 here - https://github.com/vinberg88/debian
+
+Debian 13 will setup User and Password and host name.
+
+-------------------------------
+
+Reboot Debian 13 - Reboot Debian 13 - Reboot Debian 13 - Direct after installation.
+
+-------------------------------
+
+Update all so we have lastest drivers for Debian 13 - KDE 6 - WSL
+
+Type in terminal: cd
+
+Type in terminal: sudo apt update
+
+Type in terminal: sudo apt full-upgrade
+
+-------------------------------
+
+Install fastfetch so we can see that all works fine for DEBIAN 13 - 2026
+
+sudo apt install fastfetch
+
+Type in terminal: fastfetch
+
+                               DEBIAN 13 and KDE 6 VIA WSL FOR WINDOWS 11 - 2026
+       _,met$$$$$gg.           
+    ,g$$$$$$$$$$$$$$$P.        MEDIA MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+  ,g$$P"        """Y$$.".   
+ ,$$P'              `$$$.      OS: Debian GNU/Linux 13 (trixie) x86_64
+',$$P       ,ggs.     `$$b:   
+`d$$'     ,$P"'   .    $$$     Host: Windows Subsystem for Linux - DS13 (3.0.3.0)
+ $$P      d$'     ,    $$P     
+ $$:      $$.   -    ,d$$'     KKernel: Linux 6.18.54.1-microsoft-standard-WSL2
+ $$;      Y$b._   _,d$P'       
+ Y$$.    `.`"Y$$$$P"'          OS: Windows 11 Pro for Workstations (26H2) x86_64
+ `$$b      "-.__               
+  `Y$$                         Debian 13 and Debian 14 - https://github.com/vinberg88/debian
+   `Y$$.                       
+     `$$b.                     EMAIL: mattiasvinberg@duck.com
+       `Y$$b.             
+          `"Y$b._              Find me here: https://github.com/vinberg88
+              `"""            
+                               ❤️ THANK YOU FOR TESTING DEBIAN 13 and KDE 6 via WSL ❤️
+
+Extra Information for Wayland
+
+Architecture: x86_64
+Built: 2026-06-25T17:27:16
+OS: Microsoft Azure Linux 3.0 - Wayland
+wslg:            6942bb534b537302a7a22617261d9274db3cfa37
+DirectX-Headers: v1.608.0
+FreeRDP:         c4030980b29322a9cb2190711a5fadeeeb8b6a33
+mesa:            23.1.0
+pulseaudio:      c33051f2296af748ac5cd13e51abfac4d129e4c7
+weston:          a7e35fdab455dce5774b43b8aff682f748307e31
+
+-------------------------------------------------
+
+Install Programs so we can fix DBUS error for DEBIAN 13 and KDE 6 
+
+sudo apt install dbus-broker* dbus* systemd -y
+sudo apt install dbus-daemon* -y
+
+sudo systemctl disable dbus-broker
+sudo systemctl enable dbus
+
+sudo mkdir -p /run/dbus
+sudo chown messagebus:messagebus /run/dbus
+
+-------------------------------------------------
+
+Reboot Debian 13 - Reboot Debian 13 - Reboot Debian 13 
+
+-------------------------------------------------
+
+Install programs for Debian 13 and KDE 6 - WSL
+
+sudo apt install bash git npm wget curl dracut dbus dialog rsync -y
+sudo apt install sddm* -y
+sudo apt install xorg* mutter* x11* mesa* weston* wayland* -y
+
+-------------------------------
+
+                               DEBIAN 13 and KDE 6 VIA WSL FOR WINDOWS 11 - 2026
+       _,met$$$$$gg.           
+    ,g$$$$$$$$$$$$$$$P.        MEDIA MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+  ,g$$P"        """Y$$.".   
+ ,$$P'              `$$$.      OS: Debian GNU/Linux 13 (trixie) x86_64
+',$$P       ,ggs.     `$$b:   
+`d$$'     ,$P"'   .    $$$     Host: Windows Subsystem for Linux - DS13 (3.0.3.0)
+ $$P      d$'     ,    $$P     
+ $$:      $$.   -    ,d$$'     KKernel: Linux 6.18.54.1-microsoft-standard-WSL2
+ $$;      Y$b._   _,d$P'       
+ Y$$.    `.`"Y$$$$P"'          OS: Windows 11 Pro for Workstations (26H2) x86_64
+ `$$b      "-.__               
+  `Y$$                         Debian 13 and Debian 14 - https://github.com/vinberg88/debian
+   `Y$$.                       
+     `$$b.                     EMAIL: mattiasvinberg@duck.com
+       `Y$$b.             
+          `"Y$b._              Find me here: https://github.com/vinberg88
+              `"""            
+                               ❤️ THANK YOU FOR TESTING DEBIAN 13 and KDE 6 via WSL ❤️
+
+Extra Information for Wayland
+
+Architecture: x86_64
+Built: 2026-06-25T17:27:16
+OS: Microsoft Azure Linux 3.0 - Wayland
+wslg:            6942bb534b537302a7a22617261d9274db3cfa37
+DirectX-Headers: v1.608.0
+FreeRDP:         c4030980b29322a9cb2190711a5fadeeeb8b6a33
+mesa:            23.1.0
+pulseaudio:      c33051f2296af748ac5cd13e51abfac4d129e4c7
+weston:          a7e35fdab455dce5774b43b8aff682f748307e31
+
+-------------------------------
+
+Install Google-Chrome for Debian 13 and KDE 6 PLASMA - 2026
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb -y
+
+-------------------------------------------------
+
+Fix IP problem for X410. Cant find screen problems and other stuff. IP is importent stuff.
+
+OPEN POWERSHELL FROM MICROSOFT AND TYPE: ipconfig
+
+NOTE - Importent to look for ip. Last lines are IP-numbers for WSL.
+
+SAVE IP HERE FROM POWERSHELL: 172.30.16.1
+
+GO BACK TO DEBIAN 13 Terminal AND COPY AND PASTE THIS.
+
+sudo apt install systemd-resolved chatt* e2fsprogs* -y
+
+sudo systemctl unmask systemd-resolved.service
+sudo systemctl enable systemd-resolved.service
+
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.30.16.1 <-- put your ip number here and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+sudo cat /etc/resolv.conf
+
+DONE - Problem fixed for DEBIAN 13 and KDE 6 via WSL and X410 - 2026
+
+-------------------------------------------------
+
+Install Blanket - Listen to Sounds from birds and other strange places - WSL - 2026
+
+sudo apt install blanket*
+
+-------------------------------------------------
+
+                               DEBIAN 13 and KDE 6 VIA WSL FOR WINDOWS 11 - 2026
+       _,met$$$$$gg.           
+    ,g$$$$$$$$$$$$$$$P.        MEDIA MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+  ,g$$P"        """Y$$.".   
+ ,$$P'              `$$$.      OS: Debian GNU/Linux 13 (trixie) x86_64
+',$$P       ,ggs.     `$$b:   
+`d$$'     ,$P"'   .    $$$     Host: Windows Subsystem for Linux - DS13 (3.0.3.0)
+ $$P      d$'     ,    $$P     
+ $$:      $$.   -    ,d$$'     KKernel: Linux 6.18.54.1-microsoft-standard-WSL2
+ $$;      Y$b._   _,d$P'       
+ Y$$.    `.`"Y$$$$P"'          OS: Windows 11 Pro for Workstations (26H2) x86_64
+ `$$b      "-.__               
+  `Y$$                         Debian 13 and Debian 14 - https://github.com/vinberg88/debian
+   `Y$$.                       
+     `$$b.                     EMAIL: mattiasvinberg@duck.com
+       `Y$$b.             
+          `"Y$b._              Find me here: https://github.com/vinberg88
+              `"""            
+                               ❤️ THANK YOU FOR TESTING DEBIAN 13 and KDE 6 via WSL ❤️
+
+Extra Information for Wayland - Debian 13 and KDE 6 
+
+Architecture: x86_64
+Built: 2026-06-25T17:27:16
+OS: Microsoft Azure Linux 3.0 - Wayland
+wslg:            6942bb534b537302a7a22617261d9274db3cfa37
+DirectX-Headers: v1.608.0
+FreeRDP:         c4030980b29322a9cb2190711a5fadeeeb8b6a33
+mesa:            23.1.0
+pulseaudio:      c33051f2296af748ac5cd13e51abfac4d129e4c7
+weston:          a7e35fdab455dce5774b43b8aff682f748307e31
+
+-------------------------------
+
+Time to install KDE 6 via Debian 13 - 2026 - WSL
+
+sudo apt install kde-plasma-desktop -y
+
+sudo apt install kde* -y
+
+sudo apt install plasma* -y
+
+-------------------------------
+
+Have a god Office svit for DEBIAN 13
+
+sudo apt install libreoffice -y
+
+-------------------------------
+
+Instsll GIMP so we can Paint - Befora AI - Debian 13 - WSL - 2026
+
+sudo apt install gimp -y
+
+-------------------------------
+
+Install Tasksel for Debian 13 and kDE 6 PLASMA - WSL - 2026
+
+sudo apt install tasksel
+
+Run Tasksel: sudo tasksel
+
+SELECT FROM TASKSEL: Debian desktop environment AND KDE Plasma  
+
+Press ENTER and start install for KDE 6 and DEBIAN 13.7
+
+-------------------------------
+
+Paste In Terminal - All - Debian 13 and KDE 6 PLASMA - 2026
+
+xdg-user-dirs-update
+sudo systemctl enable sddm.service
+sudo systemctl set-default multi-user.target
+sudo systemctl set-default graphical.target
+
+-------------------------------
+
+Type this in terminal and put your username there: sudo loginctl enable-linger adolf
+
+-------------------------------
+
+Install this small script so KDE 6 start via DEBIAN 13 - WSL - 2026
+
+wget https://www.xhamster.nu/scripts/install-kde6-x410-debian14.sh
+
+chmod +x install-kde6-x410-debian14.sh
+
+./install-kde6-x410-debian14.sh
+
+-------------------------------
+
+Reboot Debian 13 - Reboot Debian 13 - Reboot Debian 13
+
+-------------------------------
+
+Now we can start KDE 6 via Debian 13 - WSL - 2026
+
+
+NOTE: FIRST START x410 THEN YOU START Debian 13.7
+
+
+Paste in terminal: export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+
+Type in terminal and start plasma: kde6-x410 start
+
+
+Wait when you start KDE 6 first time via Debian 13 - It will work fine on DEBIAN 13 - But this will take some time to start.
+
+-------------------------------
+
+Kind Regards Mattias Vinberg - Debian 13 - KDE 6 PLASMA - X410 - Microsoft - Windows 11 - Sweden - Stockholm - 2026
+
+
+                               DEBIAN 13 and KDE 6 VIA WSL FOR WINDOWS 11 - 2026
+       _,met$$$$$gg.           
+    ,g$$$$$$$$$$$$$$$P.        MEDIA MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+  ,g$$P"        """Y$$.".   
+ ,$$P'              `$$$.      OS: Debian GNU/Linux 13 (trixie) x86_64
+',$$P       ,ggs.     `$$b:   
+`d$$'     ,$P"'   .    $$$     Host: Windows Subsystem for Linux - DS13 (3.0.3.0)
+ $$P      d$'     ,    $$P     
+ $$:      $$.   -    ,d$$'     KKernel: Linux 6.18.54.1-microsoft-standard-WSL2
+ $$;      Y$b._   _,d$P'       
+ Y$$.    `.`"Y$$$$P"'          OS: Windows 11 Pro for Workstations (26H2) x86_64
+ `$$b      "-.__               
+  `Y$$                         Debian 13 and Debian 14 - https://github.com/vinberg88/debian
+   `Y$$.                       
+     `$$b.                     EMAIL: mattiasvinberg@duck.com
+       `Y$$b.             
+          `"Y$b._              Find me here: https://github.com/vinberg88
+              `"""            
+                               ❤️ THANK YOU FOR TESTING DEBIAN 13 and KDE 6 via WSL ❤️
+
+
+Debian is a registered trademark of Software in the Public Interest, Inc - 2026
+
+-------------------------------
