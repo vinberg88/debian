@@ -1,5 +1,5 @@
 
-This script for DEBIAN 13/14 will make any desktop to start for WSL [Start scirpt for DEBIAN](https://github.com/vinberg88/debian-start-script)
+This script for DEBIAN 13/14 will make any desktop to start for WSL [Start scirpt for DEBIAN](https://github.com/vinberg88/debian-start-script) ❤️
 
 
 <p align="center">
