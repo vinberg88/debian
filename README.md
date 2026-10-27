@@ -137,11 +137,14 @@ XFCE is lightweight, fast and a good choice if you want a traditional Linux desk
 
 ---
 
-## Cinnamon
+## Cinnamon via DEBIAN 14 FORKY
 
 Cinnamon offers a familiar desktop layout with a traditional panel, application menu and highly configurable desktop.
 
-📖 **Installation guide — coming soon**  
+<img width="1920" height="1080" alt="Debian14-Cinnamon" src="https://github.com/user-attachments/assets/0436f737-e592-4631-8993-760d7f94726a" />
+
+📖 Installation guide — https://github.com/vinberg88/debian/blob/main/Debian14-Cinnamon.txt
+
 ▶️ **YouTube video — coming soon**
 
 ---
