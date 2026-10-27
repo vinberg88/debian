@@ -1,4 +1,4 @@
-Debian 13 and KDE 6 - Install KDE 6 via Debian 13.7 on Windows 11 and WSL - X410 - YouTube - GitHUB - 2026
+Debian 13 and KDE 6 - Install KDE 6 via Debian 13 on Windows 11 and WSL - X410 - YouTube - GitHUB - 2026
 
 How to install KDE 6 via Debian 13 - WSL - TEXT VIA GITHUB
 https://github.com/vinberg88/debian/blob/main/Debian-13-KDE.txt
@@ -20,15 +20,15 @@ WSL UI - This tool is free and works like Raft WSL.
 https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
 
 
-                               DEBIAN 13.7 and KDE 6 VIA WSL FOR WINDOWS 11 - 2026
+                               DEBIAN 13 and KDE 6 VIA WSL FOR WINDOWS 11 - 2026
        _,met$$$$$gg.           
     ,g$$$$$$$$$$$$$$$P.        MEDIA MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
   ,g$$P"        """Y$$.".   
  ,$$P'              `$$$.      OS: Debian GNU/Linux 13 (trixie) x86_64
 ',$$P       ,ggs.     `$$b:   
-`d$$'     ,$P"'   .    $$$     Host: Windows Subsystem for Linux - DS13 (3.0.3.0)
+`d$$'     ,$P"'   .    $$$     Host: Windows Subsystem for Linux - DS13 (3.0.4.0)
  $$P      d$'     ,    $$P     
- $$:      $$.   -    ,d$$'     KKernel: Linux 6.18.54.1-microsoft-standard-WSL2
+ $$:      $$.   -    ,d$$'     Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
  $$;      Y$b._   _,d$P'       
  Y$$.    `.`"Y$$$$P"'          OS: Windows 11 Pro for Workstations (26H2) x86_64
  `$$b      "-.__               
@@ -38,7 +38,7 @@ https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
        `Y$$b.             
           `"Y$b._              Find more for WSL: https://github.com/vinberg88
               `"""            
-                               ❤️ THANK YOU FOR TESTING DEBIAN 13.7 and KDE 6 via WSL ❤️
+                               ❤️ THANK YOU FOR TESTING DEBIAN 13 and KDE 6 via WSL ❤️
 
 
 About Debian 13 - https://www.debian.org - 2026
@@ -123,9 +123,9 @@ Type in terminal: fastfetch
   ,g$$P"        """Y$$.".   
  ,$$P'              `$$$.      OS: Debian GNU/Linux 13 (trixie) x86_64
 ',$$P       ,ggs.     `$$b:   
-`d$$'     ,$P"'   .    $$$     Host: Windows Subsystem for Linux - DS13 (3.0.3.0)
+`d$$'     ,$P"'   .    $$$     Host: Windows Subsystem for Linux - DS13 (3.0.4.0)
  $$P      d$'     ,    $$P     
- $$:      $$.   -    ,d$$'     KKernel: Linux 6.18.54.1-microsoft-standard-WSL2
+ $$:      $$.   -    ,d$$'     Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
  $$;      Y$b._   _,d$P'       
  Y$$.    `.`"Y$$$$P"'          OS: Windows 11 Pro for Workstations (26H2) x86_64
  `$$b      "-.__               
@@ -182,9 +182,9 @@ sudo apt install xorg* mutter* x11* mesa* weston* wayland* -y
   ,g$$P"        """Y$$.".   
  ,$$P'              `$$$.      OS: Debian GNU/Linux 13 (trixie) x86_64
 ',$$P       ,ggs.     `$$b:   
-`d$$'     ,$P"'   .    $$$     Host: Windows Subsystem for Linux - DS13 (3.0.3.0)
+`d$$'     ,$P"'   .    $$$     Host: Windows Subsystem for Linux - DS13 (3.0.4.0)
  $$P      d$'     ,    $$P     
- $$:      $$.   -    ,d$$'     KKernel: Linux 6.18.54.1-microsoft-standard-WSL2
+ $$:      $$.   -    ,d$$'     Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
  $$;      Y$b._   _,d$P'       
  Y$$.    `.`"Y$$$$P"'          OS: Windows 11 Pro for Workstations (26H2) x86_64
  `$$b      "-.__               
@@ -236,7 +236,7 @@ sudo ls -l /etc/resolv.conf
 sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
 sudo nano /etc/resolv.conf
 
-nameserver 172.30.16.1 <-- put your ip number here and add nameserver.
+nameserver 172.30.16.1 <-- put your ip number here from Powershell and add nameserver.
 
 sudo chattr +i /etc/resolv.conf
 sudo systemctl restart systemd-resolved
@@ -258,9 +258,9 @@ sudo apt install blanket*
   ,g$$P"        """Y$$.".   
  ,$$P'              `$$$.      OS: Debian GNU/Linux 13 (trixie) x86_64
 ',$$P       ,ggs.     `$$b:   
-`d$$'     ,$P"'   .    $$$     Host: Windows Subsystem for Linux - DS13 (3.0.3.0)
+`d$$'     ,$P"'   .    $$$     Host: Windows Subsystem for Linux - DS13 (3.0.4.0)
  $$P      d$'     ,    $$P     
- $$:      $$.   -    ,d$$'     KKernel: Linux 6.18.54.1-microsoft-standard-WSL2
+ $$:      $$.   -    ,d$$'     Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
  $$;      Y$b._   _,d$P'       
  Y$$.    `.`"Y$$$$P"'          OS: Windows 11 Pro for Workstations (26H2) x86_64
  `$$b      "-.__               
@@ -292,7 +292,32 @@ sudo apt install kde-plasma-desktop -y
 
 sudo apt install kde* -y
 
-sudo apt install plasma* -y
+sudo apt install plasma* flatpak* -y
+
+sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+
+-------------------------------
+
+Visual Studio Code from Microsoft - INSTALL =)
+
+echo "code code/add-microsoft-repo boolean true" | sudo debconf-set-selections
+
+sudo apt install wget gpg &&
+wget -qO- https://packages.microsoft.com/keys/microsoft.asc | sudo gpg --dearmor -o /usr/share/keyrings/microsoft.gpg
+
+sudo nano /etc/apt/sources.list.d/vscode.sources
+
+Add this to nano
+
+Types: deb
+URIs: https://packages.microsoft.com/repos/code
+Suites: stable
+Components: main
+Architectures: amd64,arm64,armhf
+Signed-By: /usr/share/keyrings/microsoft.gpg
+
+sudo apt update &&
+sudo apt install code-insiders
 
 -------------------------------
 
@@ -305,6 +330,19 @@ sudo apt install libreoffice -y
 Instsll GIMP so we can Paint - Befora AI - Debian 13 - WSL - 2026
 
 sudo apt install gimp -y
+
+-------------------------------
+
+Install snapd for DEBIAN 13 and KDE 6
+
+sudo apt update
+sudo apt install snapd*
+
+sudo apt install plasma-discover-backend-snap
+
+sudo snap install core
+sudo snap install snapd
+
 
 -------------------------------
 
@@ -362,7 +400,7 @@ Wait when you start KDE 6 first time via Debian 13 - It will work fine on DEBIAN
 
 -------------------------------
 
-Regards Mattias Vinberg - Debian 13 - KDE 6 PLASMA - X410 - Microsoft - Windows 11 - Sweden - Stockholm - 2026
+Kind Regards Mattias Vinberg - Debian 13 - KDE 6 PLASMA - X410 - Microsoft - Windows 11 - Sweden - Stockholm - 2026
 
 
                                DEBIAN 13 and KDE 6 VIA WSL FOR WINDOWS 11 - 2026
@@ -371,9 +409,9 @@ Regards Mattias Vinberg - Debian 13 - KDE 6 PLASMA - X410 - Microsoft - Windows 
   ,g$$P"        """Y$$.".   
  ,$$P'              `$$$.      OS: Debian GNU/Linux 13 (trixie) x86_64
 ',$$P       ,ggs.     `$$b:   
-`d$$'     ,$P"'   .    $$$     Host: Windows Subsystem for Linux - DS13 (3.0.3.0)
+`d$$'     ,$P"'   .    $$$     Host: Windows Subsystem for Linux - DS13 (3.0.4.0)
  $$P      d$'     ,    $$P     
- $$:      $$.   -    ,d$$'     KKernel: Linux 6.18.54.1-microsoft-standard-WSL2
+ $$:      $$.   -    ,d$$'     Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
  $$;      Y$b._   _,d$P'       
  Y$$.    `.`"Y$$$$P"'          OS: Windows 11 Pro for Workstations (26H2) x86_64
  `$$b      "-.__               
