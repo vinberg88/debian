@@ -190,7 +190,7 @@ sudo apt install xorg* mutter* x11* mesa* weston* wayland* -y
  `$$b      "-.__               
   `Y$$                         Debian 13 and Debian 14 - https://github.com/vinberg88/debian
    `Y$$.                       
-     `$$b.                     EMAIL: mattiasvinberg@duck.com
+     `$$b.                     EMAIL: vinberg@duck.com
        `Y$$b.             
           `"Y$b._              Find me here: https://github.com/vinberg88
               `"""            
@@ -266,7 +266,7 @@ sudo apt install blanket*
  `$$b      "-.__               
   `Y$$                         Debian 13 and Debian 14 - https://github.com/vinberg88/debian
    `Y$$.                       
-     `$$b.                     EMAIL: mattiasvinberg@duck.com
+     `$$b.                     EMAIL: vinberg@duck.com
        `Y$$b.             
           `"Y$b._              Find me here: https://github.com/vinberg88
               `"""            
@@ -417,7 +417,7 @@ Kind Regards Mattias Vinberg - Debian 13 - KDE 6 PLASMA - X410 - Microsoft - Win
  `$$b      "-.__               
   `Y$$                         Debian 13 and Debian 14 - https://github.com/vinberg88/debian
    `Y$$.                       
-     `$$b.                     EMAIL: mattiasvinberg@duck.com
+     `$$b.                     EMAIL: vinberg@duck.com
        `Y$$b.             
           `"Y$b._              Find me here: https://github.com/vinberg88
               `"""            
