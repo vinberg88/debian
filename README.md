@@ -145,7 +145,7 @@ Cinnamon offers a familiar desktop layout with a traditional panel, application 
 
 📖 Installation guide — https://github.com/vinberg88/debian/blob/main/Debian14-Cinnamon.txt
 
-▶️ **YouTube video — coming soon**
+▶️ YouTube video — https://www.youtube.com/watch?v=cIXkhWxp_Q0
 
 ---
 
