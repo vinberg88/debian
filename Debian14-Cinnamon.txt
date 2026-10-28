@@ -4,7 +4,7 @@ How to install Cinnamon Desktop on Debian 14 - TEXT via GITHUB
 https://github.com/vinberg88/debian/blob/main/Debian14-Cinnamon.txt
 
 How to install Cinnamon Desktop on Debian 14 - Movie via YOUTUBE
-Comming SONE..
+https://www.youtube.com/watch?v=cIXkhWxp_Q0
 
 You can find Debian 14 here for WSL - https://github.com/vinberg88/debian
 
