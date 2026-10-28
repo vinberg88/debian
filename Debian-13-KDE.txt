@@ -131,7 +131,7 @@ Type in terminal: fastfetch
  `$$b      "-.__               
   `Y$$                         Debian 13 and Debian 14 - https://github.com/vinberg88/debian
    `Y$$.                       
-     `$$b.                     EMAIL: mattiasvinberg@duck.com
+     `$$b.                     EMAIL: vinberg@duck.com
        `Y$$b.             
           `"Y$b._              Find me here: https://github.com/vinberg88
               `"""            
