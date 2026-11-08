@@ -8,7 +8,7 @@ How to install DEEPIN DESKTOP via DEEPIN 25 - WSL - TEXT via GitHUB
 https://github.com/vinberg88/debian/blob/main/Deepin-25-WSL-Deepin.txt
 
 How to install DEEPIN DESKTOP via DEEPIN 25 - WSL - MOVIE via YouTUBE
-Comming Sone...
+https://www.youtube.com/watch?v=pRU5RQV6s7w
 
 TOOLS THAT I USE FOR DEEPIN 25 AND WSL - WINDOWS 11
 
