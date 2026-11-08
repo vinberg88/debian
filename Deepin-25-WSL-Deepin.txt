@@ -1,0 +1,626 @@
+DEEPIN 25 and DEEPIN DESKTOP - WSL - Install DEEPIN via Deepin OS - Windows 11 - WSL - X410 - Linux - 2026
+
+
+DOWNLOAD DEEPIN OS VIA THIS LINK https://github.com/deepin-community/deepin-rootfs/tags 
+
+LOOK FOR v1.6.0 or TOP number and download deepin-wsl-rootfs-amd64.tar.gz
+
+You can find DEEPIN OS FOR WSL HERE - INSTALL DEEPIN 25: https://github.com/vinberg88/debian
+
+How to install DEEPIN DESKTOP via DEEPIN 25 - WSL - TEXT via GitHUB
+Comming Sone...
+
+How to install DEEPIN DESKTOP via DEEPIN 25 - WSL - MOVIE via YouTUBE
+Comming Sone...
+
+TOOLS THAT I USE FOR DEEPIN 25 AND WSL - WINDOWS 11
+
+X410 - X Server for Windows 11. Find it in Micorsoft store. 
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+Raft WSL is a powerful tool for managing Linux (WSL) distribution.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+
+             ............                 
+         .';;;;;.       .,;,.             THANKS FOR TESTING DEEPIN AND DEEPIN DESKTOP FOR WSL - 2026 ❤️
+      .,;;;;;;;.       ';;;;;;;.          
+    .;::::::::'     .,::;;,''''',.        
+   ,'.::::::::    .;;'.          ';       LINUX: Deepin for WSL - DEPPIN WSL 25.02.00 - x86_64
+  ;'  'cccccc,   ,' :: '..        .:      
+ ,,    :ccccc.  ;: .c, '' :.       ,;     Host: Windows Subsystem for Linux - Debian (2.9.4.0)
+.l.     cllll' ., .lc  :; .l'       l.    
+.c       :lllc  ;cl:  .l' .ll.      :'    Kernel: Linux 6.18.35.2-microsoft-standard-WSL2
+.l        'looc. .   ,o:  'oo'      c,    
+.o.         .:ool::coc'  .ooo'      o.    LINUX DESKTOP: DEEPIN 25 and DEEPIN OS MADE VIA DEBIAN.
+ ::            .....   .;dddo      ;c     
+  l:...            .';lddddo.     ,o      MEDIA MATTIAS VINBERG - STOCKHOLM - SWEDEN - 2026
+   lxxxxxdoolllodxxxxxxxxxc      :l       
+    ,dxxxxxxxxxxxxxxxxxxl.     'o,        GITHUB: - https://github.com/vinberg88/debian
+      ,dkkkkkkkkkkkkko;.    .;o;          
+        .;okkkkkdl;.    .,cl:.            OS: Windows 11 Pro Insider Preview (26H2) x86_64
+            .,:cccccccc:,.                
+
+
+About DEEPIN OS - Deepin 25 - https://www.deepin.org - 2026
+
+Deepin is easy to install and can meet your work needs 
+without additional system configuration and software
+installation. You can configure deepin as you want,
+but it is not necessary - optimal settings and 
+adjustments have been applied by default to meet the
+usage demands of most users. deepin (formerly, 
+Deepin, Linux Deepin, Hiweed GNU/Linux) is a 
+Debian-based distribution that aims to
+provide an elegant, user-friendly and reliable
+operating system. 
+
+About DEEPIN DESKTOP FOR WSL - https://www.deepin.org - 2026
+
+Beautiful UI design, intimate human-computer interaction, and friendly
+community environment make you feel at home. Deepin is easy to
+install and can meet your work needs without additional system 
+configuration and software installation. You can configure deepin
+as you want, but it is not necessary - optimal settings and adjustments
+have been applied by default to meet the usage demands of most users.
+The desktop environment and multiple applications based on the 
+self-developed DTK not only have a beautiful UI, but also offer 
+the human-computer interaction in line with user habits. 
+You can get started with deepin in a few minutes.
+
+You can finde more Stuff here About WSL for Desktops - WSL - DEEPIN 25
+
+https://github.com/vinberg88 or https://vinberg88.github.io
+
+WATCH MORE MOVIES HERE ABOUT WSL
+
+https://www.youtube.com/@mattiasvinberg
+
+--------------------------
+
+DOWNLOAD DEEPIN WSL FROM HERE. SELECT deepin-wsl-rootfs-amd64.tar.gz via GITHUB.
+
+https://github.com/deepin-community/deepin-rootfs/tags
+
+Select first number for DEEPIN OS in GITHUB TO DOWNLOAD DEEPIN: v1.6.0
+
+Install DEEPIN file via RAFT WSL or via this by POWERSHELL.
+
+
+Something like this when you install DEEPIN 25 from POWERSHELL.
+
+NOTE - go to download folder first and then run this from powershell - DONE =]
+
+wsl --import Deepin C:\WSL\Deepin .\v --version 2
+
+--------------------------
+
+FIRST THING TO DO AFTER INSTALL DEEPIN OS IS TO UPDATE AND INSTALL
+SOME SMALL PROGRAMS FOR DEEPIN 25 AND WSL2.
+
+Copy and paste all in console for DEEPIN.
+
+apt update
+apt install nano sudo dialog
+
+--------------------------
+
+ADD USER FOR DEEPIN WSL - CHANGE ADOLF TO YOUR USERNAME =)
+
+Copy and paste all in console for DEEPIN - SETUP USER.
+
+USE SAME PASSWORD FOR ROOT AND USER...
+
+useradd -m -s /bin/bash adolf
+passwd adolf
+usermod -aG sudo adolf
+passwd root
+
+--------------------------
+
+COPY AND PASTE ALL IN TERMINAL FOR DEEPIN.
+
+NOTE: CHANGE ADOLF TO YOUR USERNAME FOR DEEPIN AND LINUX.
+
+for grupp in adm audio video plugdev; do
+    getent group "$grupp" >/dev/null && usermod -aG "$grupp" adolf
+done
+
+--------------------------
+
+Now open this file via terminal and add username via DEEPIN WSL.
+
+Copy and paste to terminal
+
+nano /etc/wsl.conf
+
+next add this and change adolf to your username
+
+[user]
+default=adolf
+
+----------------------------------------------
+
+REBOOT DEEPIN 25 FOR WSL - REBOOT DEEPIN 25 FOR WSL - REBOOT DEEPIN 25 FOR WSL
+
+----------------------------------------------
+
+Now LOGIN as normal user for DEEPIN WSL and update and upgrade all =)
+
+sudo apt update
+sudo apt dist-upgrade
+
+----------------------------------------------
+
+INSTALL SOME BASIC PROGRAMS FOR DEEPIN WLS 25.02.00.
+
+sudo apt install syn* org.* com.*
+
+sudo synaptic
+
+sudo apt install rime-installer qt5* panshi-manager org.* com.*
+
+sudo apt install dde-cooperation* dde-permission-manager net.* libdtk* libdeepin*
+
+sudo apt install deepin-update-ui deepin-update-manager deepin-pc-manager
+
+sudo apt install systemd fonts-noto-mono thunar-archive-plugin mousepad policykit-1-gnome ristretto xserver-xorg-input-synaptics systemd-resolved -y
+
+----------------------------------------------
+
+REBOOT DEEPIN 25 FOR WSL - REBOOT DEEPIN 25 FOR WSL - REBOOT DEEPIN 25 FOR WSL
+
+----------------------------------------------
+
+sudo apt install fonts-dejavu-extra network-manager-gnome aspell network-manager ttf-bitstream-vera fonts-dejavu p7zip-full -y
+sudo apt install debian-keyring p7zip unzip xarchiver fonts-freefont-ttf -y
+sudo apt install ttf-mscorefonts-installer build-essential autoconf automake libtool flex bison gdb meson ninja* -y
+sudo apt install ibus bash git npm wget curl pipx pip dracut tasksel systemd-timesyncd -y
+sudo apt install sddm* bash* lsb* dbus* weston mutter* wayland* -y
+
+IF ASKED UNDER INSTALL USE SDDM FOR DEEPIN WSL AND DEEPIN DESKTOP.
+
+----------------------------------------------
+
+Activate SDDM for DEEPIN WSL - Simple Desktop Display Manager - SDDM
+
+Simple Desktop Display Manager (SDDM) is a modern display manager 
+that supports both the X server and the Wayland protocol. 
+
+Copy and paste this in terminal.
+
+sudo systemctl enable sddm.service
+sudo systemctl enable sddm --now
+
+----------------------------------------------
+
+Install BLANKET for DEEEPIN OS WSL - LISTEND TO SOUNDS.
+
+wget http://www.knulla.org/scripts/blanket-deepin.deb
+sudo apt install ./blanket-deepin.deb
+
+----------------------------------------------
+
+Install ffmpeg, MPV and other stuff for MEDIA - DEEPIN WSL AND DEEPIN DESKTOP STUFF.
+
+sudo apt install yt-dlp -y
+sudo apt install mpv-mpris -y
+sudo apt install mpv rsync -y
+sudo apt install ffmpeg* tlp tlp-rdw deepin-devicemanager deepin-sound-theme -y
+sudo systemctl enable tlp
+
+----------------------------------------------
+
+REBOOT DEEPIN 25 FOR WSL - REBOOT DEEPIN 25 FOR WSL - REBOOT DEEPIN 25 FOR WSL
+
+----------------------------------------------
+
+INSTALL MORE PROGRAMS FOR DEEPIN DESKTOP AND DEEPIN WSL.
+
+Copy and paste to terminal: sudo tasksel 
+
+Select Debian Environment in TERMINAL via TASKSEL and install.
+
+---------------------------------------------------------------
+
+Install Audio Packages for DEEPIN and DEEPIN DESKTOP FOR WSL - 2026
+
+sudo apt install pulseaudio pipewire pipewire-pulse alsa-utils alsa*
+
+---------------------------------------------------------------
+
+Install Program for HYFETCH AND FASTFETCH - DEEPIN WSL AND DEEPIN DESKTOP -2026
+
+wget https://github.com/fastfetch-cli/fastfetch/releases/download/2.65.2/fastfetch-linux-amd64.deb
+sudo apt install ./fastfetch-linux-amd64.deb
+
+To test type this in terminal: fastfetch
+
+
+             ............                 
+         .';;;;;.       .,;,.             THANKS FOR TESTING DEEPIN 25 AND DEEPIN DESKTOP FOR WSL - 2026 ❤️
+      .,;;;;;;;.       ';;;;;;;.          
+    .;::::::::'     .,::;;,''''',.        OS: Deepin 25 x86_64 - Deepin for WSL - DEPPIN WSL 25.02.00 - x86_64
+   ,'.::::::::    .;;'.          ';       
+  ;'  'cccccc,   ,' :: '..        .:      Host: Windows Subsystem for Linux - DEEPIN-OS (2.9.12.0)
+ ,,    :ccccc.  ;: .c, '' :.       ,;     
+.l.     cllll' ., .lc  :; .l'       l.    Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+.c       :lllc  ;cl:  .l' .ll.      :'    
+.l        'looc. .   ,o:  'oo'      c,    LINUX DESKTOP: DEEPIN DESKTOP FOR WSL via deepin WSL 25
+.o.         .:ool::coc'  .ooo'      o.    
+ ::            .....   .;dddo      ;c     MEDIA MATTIAS VINBERG - STOCKHOLM - SWEDEN
+  l:...            .';lddddo.     ,o      
+   lxxxxxdoolllodxxxxxxxxxc      :l       How to install DEEPIN WSL 25: https://github.com/vinberg88/debian
+    ,dxxxxxxxxxxxxxxxxxxl.     'o,        
+      ,dkkkkkkkkkkkkko;.    .;o;          FIND ME ON GITHUB: - https://github.com/vinberg88
+        .;okkkkkdl;.    .,cl:.            
+            .,:cccccccc:,.                OS: Windows 11 Pro Insider Preview (26H2) x86_64
+
+                                          Mail: mattiasvinberg@duck.com
+
+MORE INFO ABOUT WSLg FOR DEEPIN WSL 25 DESKTOP.
+
+Architecture: x86_64
+Built: 2026-06-25T17:27:16Z
+OS: Microsoft Azure Linux 3.0 - Wayland
+wslg:            6942bb534b537302a7a22617261d9274db3cfa37
+DirectX-Headers: v1.608.0
+FreeRDP:         c4030980b29322a9cb2190711a5fadeeeb8b6a33
+mesa:            23.1.0
+pulseaudio:      c33051f2296af748ac5cd13e51abfac4d129e4c7
+weston:          a7e35fdab455dce5774b43b8aff682f748307e31
+
+----------------------------------------------
+
+Install Chrome BROWSER FOR DEEPIN WSL- CHROME WORKS WELL UNDER LINUX AND DEEPIN DESKTOP.
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb -y
+
+----------------------------------------------
+
+Install Themes for DEEPIN 25 and DEEPIN desktop. THIS WILL TAKE SOME TIME TO INSTALL - NO STRESS FOR DEEPIN.
+
+THIS IS ONLY IF YOU WANT NO NEED TO INSTALL.
+
+sudo apt install darkcold-gtk-theme -y
+sudo apt install darkmint-gtk-theme -y
+sudo apt install greybird-gtk-theme -y
+sudo apt install blackbird-gtk-theme -y
+sudo apt install adwaita-icon-theme -y
+sudo apt install yaru-theme-gtk -y 
+sudo apt install bibata-cursor-theme -y 
+sudo apt install adwaita-icon-theme -y 
+sudo apt install deepin-icon-theme -y 
+sudo apt install faba-icon-theme -y 
+sudo apt install faenza-icon-theme -y 
+sudo apt install numix-icon-theme -y 
+sudo apt install yaru-theme-icon -y 
+sudo apt install obsidian-icon-theme -y
+sudo apt install dmz-cursor-theme -y 
+
+----------------------------------------------
+
+Install this for DEEPIN 25 and Deepin desktop - WSL - 2026
+
+sudo apt install gtk* -y
+sudo apt install gtk2* -y
+sudo apt install gtk3* -y
+sudo apt install gtk4* -y
+sudo apt install qt5* fonts-firacode -y
+sudo apt install tar unzip shell* -y
+
+----------------------------------------------
+
+INSTALL Tokyonight DARK ICONS for DEEPIN desktop AND DEEPIN WSL2.
+
+DOWNLOAD LINK MAYBE NOT WORK - https://www.gnome-look.org/p/1681475
+
+COPY AND PASTE TO TERMINAL IN DEEPIN WSL TERMINAL.
+
+wget https://www.xhamster.nu/Tokyonight-Dark-Icons.zip
+sudo mkdir -p ~/.local/share/icons
+sudo unzip Tokyonight-Dark-Icons.zip -d ~/.local/share/icons/
+
+Works Perfect for DEEPIN and DEEPIN DESKTOP - 2026 - ✔
+
+----------------------------------------------
+
+Install blanket - Listen to sounds when you are hacking WSL to next level - DEEPIN WSL 25.02.00
+
+sudo apt install flatpak*
+
+sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+
+sudo flatpak install flathub org.onlyoffice.desktopeditors
+
+----------------------------------------------
+
+Install Gimp so you can paint like a PRO for DEEPIN WSL 2026
+
+sudo apt install gimp gimp-data-extras* -y
+
+----------------------------------------------
+
+Install LIBREOFFICE so you have a nice OFFICE for DEEPIN DESKTOP AND DEEPIN 25 FOR WSL.
+
+sudo apt install libreoffice -y
+
+----------------------------------
+
+TIME TO INSTALL DEEPIN DESKTOP FOR DEEPIN WSL 2026 - READ.
+
+DEEPIN / DEBIAN DONT HAVE LIKE UBUNTU READY REPOS SO YOU HAVE TO INSTALL DEEPIN DESKTOP MANUALLY.
+
+COPY AND PASTE TO TERMINAL WHEN YOU ARE INSTALLING DEEPIN DESKTOP - NO STRESS.
+
+sudo apt install rabbitvcs-dfm org.* network-manager-integration-plugins -y
+sudo apt install deepin-reader deepin-osconfig deepin-manual com.deepin* deepin-wayland-protocols deepin-wine-runtime -y
+sudo apt install xorg* x11* extra* -y
+sudo apt install dde-session dde-shell dde-kwin dde-file-manager deepin-terminal dde-qt5integration -y
+sudo apt install deepin-immutable* x11-xserver-utils dbus-x11 fonts-noto-cjk dde-qt5wayland-plugin dde-qt5integration* -y
+sudo apt install bash git npm ibus wget curl nano sudo pipx dracut python3-doc python3-tk python3-venv -y
+sudo apt install python3.12-venv python3.12-doc binutils binfmt-support readline-doc tini -y
+sudo apt install dde-desktop* gnome-terminal* python3-idna -y
+
+sudo apt install dde-session-shell dde-session-ui deepin-desktop-base deepin-terminal -y
+sudo apt install dde-control-center* -y
+sudo apt install dde-tray-loader* deepin-home-appstore-daemon -y
+sudo apt install dde-kwin* systemsettings* deepin-theme* -y
+sudo apt install deepin-security-loader* dde-network-dialog* ttf-deepin-opensymbol* deepin-elf-sign-tool* -y
+sudo apt install deepin-license* systemsettings* libkf5guiaddons-bin firmware-sof-signed* python3-idna -y
+sudo apt install dde-daemon* dde-api* dde-tray-loader* -y
+sudo apt install core* developer* treeland dde-services* -y
+sudo apt install sea-icon-theme icon* -y
+sudo apt install linglong-box deepin-home-appstore-daemon daemon* app* -y
+
+sudo apt install fcitx5-table-wubi98-pinyin 
+
+USE SDDM IF ASKED UNDER INSTALLATION.
+
+---------------------------------------
+
+sudo apt install dtk* -y
+sudo apt install dde-g* -y
+sudo apt install dde-q* -y
+sudo apt install dde-w -y
+sudo apt install dde-c* -y
+sudo apt install dde-t* -y
+sudo apt install dde-i* -y
+sudo apt install dde-p* -y
+sudo apt install dde-a -y
+sudo apt install dde-f* -y
+sudo apt install dde-h* -y
+
+sudo apt install deepin-n* -y
+sudo apt install deepin-b* -y
+sudo apt install deepin-v* -y
+sudo apt install deepin-x* -y
+sudo apt install deepin-l* -y
+sudo apt install deepin-g* -y
+sudo apt install deepin-f* -y
+sudo apt install deepin-s* -y
+sudo apt install deepin-p* -y
+sudo apt install deepin-u* -y
+sudo apt install deepin-t* -y
+sudo apt install deepin-e* -y
+
+sudo apt install cmake*
+sudo apt install tool*
+sudo apt install center*
+sudo apt install xdg-desktop-portal-dde
+
+sudo apt install repotest rime-installer qt5* panshi-manager org.* com.*
+
+sudo apt install dde-cooperation* dde-permission-manager net.* libdtk* libdeepin*
+
+sudo apt install deepin-update-ui deepin-update-manager deepin-pc-manager
+
+IF ASKED UNDER INSTALL USE THIS FROM DEBIAN: https://deb.debian.org/debian/
+
+---------------------------------------
+
+sudo apt install deepin-desktop-environment-base -y
+sudo apt install deepin-gtk-theme -y
+sudo apt install deepin-update-ui deepin-mail libdtk6widget-bin -y
+sudo apt install dee-t* deepin-devicemanager deepin-draw -y
+sudo apt install libdde-shell-dev* dde-wloutput-dbgsym* deepin-image-viewer deepin-screen-recorder deepin-terminal deepin-gtk-theme -y
+sudo apt install dde-file-manager deepin-calculator deepin-gtk-theme deepin-movie dde-manual-content dde-widgets -y
+sudo apt install dde-appearance libdtk6multimedia libdeepin-pdfium5-dbgsym deepin-auto-inspec -y
+sudo apt install uos* -y
+sudo apt install deepin-update-manager deepin-deb-installer org.deepin.downloader org.deepin.browser uos-ai* -y
+sudo apt install dcc-deepinid-plugin dde-store dde-widgets deepin-ai-models deepin-album deepin-app-store deepin-deb-installer -y
+sudo apt install dde-account-faces dde-clipboard dde-dconfig-editor deepin-artwork deepin-auto-inspec deepin-data-transfer org* -y
+
+------------------------------------------------------
+
+WE ARE ALMOST DONE - INSTALL DEEPIN DESKTOP - GOOD WORK!
+
+             ............                 
+         .';;;;;.       .,;,.             THANKS FOR TESTING DEEPIN AND DEEPIN DESKTOP FOR WSL - 2026 ❤️
+      .,;;;;;;;.       ';;;;;;;.          
+    .;::::::::'     .,::;;,''''',.        
+   ,'.::::::::    .;;'.          ';       LINUX: Deepin for WSL - DEPPIN WSL 25.02.00 - x86_64
+  ;'  'cccccc,   ,' :: '..        .:      
+ ,,    :ccccc.  ;: .c, '' :.       ,;     
+.l.     cllll' ., .lc  :; .l'       l.    Host: Windows Subsystem for Linux - Debian (2.9.4.0)
+.c       :lllc  ;cl:  .l' .ll.      :'    Kernel: Linux 6.18.35.2-microsoft-standard-WSL2
+.l        'looc. .   ,o:  'oo'      c,    
+.o.         .:ool::coc'  .ooo'      o.    LINUX DESKTOP: DEEPIN DESKTOP.
+ ::            .....   .;dddo      ;c     
+  l:...            .';lddddo.     ,o      MEDIA MATTIAS VINBERG - STOCKHOLM - SWEDEN
+   lxxxxxdoolllodxxxxxxxxxc      :l       
+    ,dxxxxxxxxxxxxxxxxxxl.     'o,        FIND ME ON GITHUB: - https://github.com/vinberg88
+      ,dkkkkkkkkkkkkko;.    .;o;          
+        .;okkkkkdl;.    .,cl:.            
+            .,:cccccccc:,.                OS: Windows 11 Pro Insider Preview (26H2) x86_64
+
+------------------------------------------------------
+
+Run this programs maybe need to be upgrade =]
+
+sudo apt update
+sudo apt dist-upgrade
+
+------------------------------------------------------
+
+Fix IP problem for Xserver. Cant find screen - DEEPIN WSL 25
+
+
+OPEN POWERSHELL AND TYPE: ipconfig
+
+
+NOTE - Importent to look for ip. Last lines in terminal are IP-numbers for WSL via POWERSHELL.
+
+
+SAVE IP FOR LATER USE LIKE THIS FROM POWERSHELL: 172.30.16.1
+
+
+NOW GO BACK TO DEEPIN Terminal and paste this.
+
+sudo systemctl daemon-reload
+
+sudo systemctl unmask systemd-resolved.service
+sudo systemctl enable systemd-resolved.service
+
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.30.16.1 <-- put your ip here from powershell and add nameserver like this.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+sudo cat /etc/resolv.conf
+
+IF YOU TYPE WRONG IP ADRESS ALL WILL STOP WORKING - NO STRESS.
+
+DONE - Lot of problem fixed FOR DEEPIN WSL 25 and DEEPiN DESKTOP =]
+
+----------------------------------
+
+Paste all in terminal for DEEPIN and Deepin Desktop for WSL.
+
+sudo systemctl set-default multi-user.target
+sudo systemctl set-default graphical.target
+sudo ln -fs /usr/lib/systemd/system/graphical.target /etc/systemd/system/default.target
+
+----------------------------------------------
+
+                 DEEPIN desktop for WSL2 - DEEPIN 25.02.00
+
+Type this in terminal and put your username there: sudo loginctl enable-linger adolf
+
+----------------------------------------------
+
+NOTE - START X410 Xserver SO WE HAVE DESKTOP WORKING FOR DEEPIN - NOTE
+
+JUST LET X410 RUN =]
+
+----------------------------------------------
+
+Install start-script for DEEPIN DESKTOP. Copy and paste in terminal for DEEPIN.
+
+sudo apt install deepin-desktop-theme bash git wget curl bash
+
+cd ~
+
+wget -O deepin-dde-wsl \
+ wget https://www.xhamster.nu/data/deepin-dde-wsl
+
+chmod +x deepin-dde-wsl
+bash -n deepin-dde-wsl
+./deepin-dde-wsl --version
+
+export PATH="$HOME/.local/bin:$PATH"
+
+./deepin-dde-wsl install --with-packages
+
+----------------------------------------------
+
+NOTE - You shulde see this when you run script....
+
+You will se something like that - GO to next step.
+
+[deepin-dde] DDE-paketen är installerade. dde-appearance ingår.
+[deepin-dde] Stoppar och maskerar NetworkManager för WSL...
+[deepin-dde] NetworkManager är avstängd och maskerad.
+[deepin-dde] Slutför från PowerShell med: wsl --shutdown
+[deepin-dde] Installerad som /home/adolf/.local/bin/deepin-dde
+[deepin-dde] Starta med: deepin-dde start
+[deepin-dde] Kontrollera först med: deepin-dde doctor
+
+NOTE - IF YOU SEE SOMETHING LIKE THIS IN TERMINAL START OVER INSTALL OF SCRIPT FOR DEEPIN OS 25.
+
+[deepin-dde] /home/adolf/.local ägs inte av användaren. Reparera med: sudo chown -R adolf:adolf /home/adolf/.local
+
+----------------------------------------------
+
+Now test script in terminal for deepin desktop - 2026
+
+Copy and paste in terminal after restart: deepin-dde doctor
+
+----------------------------------------------
+
+WHEN YOU SEE SOMTHING LIKE THIS IN TERMINAL ALL WORKS AND WE ARE READY TO START DEEPIN DESKTOP
+
+Deepin DDE WSL doctor 1.1.1
+
+[deepin-dde] WSL upptäcktes.
+[deepin-dde] systemd kör som PID 1.
+[deepin-dde] Kommando: dde-session
+[deepin-dde] Kommando: dde-shell
+[deepin-dde] Kommando: kwin_x11
+[deepin-dde] Kommando: xdpyinfo
+[deepin-dde] Kommando: systemctl
+[deepin-dde] Kommando: dbus-update-activation-environment
+[deepin-dde] Paket: dde-appearance
+[deepin-dde] Paket: dde-control-center
+[deepin-dde] Paket: dde-tray-loader
+[deepin-dde] X410 svarar på 172.23.144.1:0.0.
+[deepin-dde] NetworkManager är inte aktiv.
+
+[deepin-dde] Kontrollen är godkänd.
+
+----------------------------------------------
+
+STARTA DEEPIN DESKTOP VIA DEEPIN WSL OS 25
+
+
+COPY AND PASTE IN TERMINAL TO START: deepin-dde start
+
+
+JUST WAIT IT TAKE SOME TIME TO START DEEPIN DESKTOP - WAIT =]
+
+
+IF NOTHING HAPPENDS REPAIR NETWORK: deepin-dde repair-network
+
+----------------------------------------------
+
+LATEST DEEPIN 25 AND DEEPIN DESKTOP - ALL WORKS - WSL2 GUIDE - WINDOWS 11 - X410 - 2026
+
+
+             ............                 
+         .';;;;;.       .,;,.             THANKS FOR TESTING DEEPIN AND DEEPIN DESKTOP FOR WSL - 2026 ❤️
+      .,;;;;;;;.       ';;;;;;;.          
+    .;::::::::'     .,::;;,''''',.        
+   ,'.::::::::    .;;'.          ';       LINUX: Deepin for WSL - DEPPIN WSL 25.02.00 - x86_64
+  ;'  'cccccc,   ,' :: '..        .:      
+ ,,    :ccccc.  ;: .c, '' :.       ,;     
+.l.     cllll' ., .lc  :; .l'       l.    Host: Windows Subsystem for Linux - Debian (2.9.4.0)
+.c       :lllc  ;cl:  .l' .ll.      :'    Kernel: Linux 6.18.35.2-microsoft-standard-WSL2
+.l        'looc. .   ,o:  'oo'      c,    
+.o.         .:ool::coc'  .ooo'      o.    LINUX DESKTOP: DEEPIN DESKTOP.
+ ::            .....   .;dddo      ;c     
+  l:...            .';lddddo.     ,o      MEDIA MATTIAS VINBERG - STOCKHOLM - SWEDEN
+   lxxxxxdoolllodxxxxxxxxxc      :l       
+    ,dxxxxxxxxxxxxxxxxxxl.     'o,        FIND ME ON GITHUB: - https://github.com/vinberg88
+      ,dkkkkkkkkkkkkko;.    .;o;          
+        .;okkkkkdl;.    .,cl:.            
+            .,:cccccccc:,.                OS: Windows 11 Pro Insider Preview (26H2) x86_64
+
+
+
+REGARDS MATIAS VINBERG - DEEPIN WSL 25 - DEEPIN DESKTOP - WSL - WINDOWS 11 - STOCKHOLM - SWEDEN - 2026
+                                                                             
+----------------------------------------------
