@@ -32,6 +32,7 @@ The goal is to keep the base installation clean and let you decide which desktop
 
 | Distribution | Release | WSL Base |
 |---|---|---|
+| **Deepin 25 — WSL image** | DEEPIN | ✅ Ready |
 | **Debian 13 — Trixie** | Budige | ✅ Ready |
 | **Debian 13 — Trixie** | GNOME | ✅ Ready |
 | **Debian 13 — Trixie** | KDE 6 | ✅ Not Ready |
