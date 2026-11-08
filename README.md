@@ -81,9 +81,28 @@ Each desktop section can include:
 ---
 ## DEEPIN WSL FOR DEEPIN OS - 25
 
+📖 Installation guide — https://github.com/vinberg88/debian/blob/main/Deepin-25-WSL-Deepin.txt
+
+COMMING SONE.. ▶️ YouTube video.
+
+Deepin is easy to install and can meet your work needs without additional system configuration and software
+installation. You can configure deepin as you want, but it is not necessary - optimal settings and 
+adjustments have been applied by default to meet the
+usage demands of most users. deepin (formerly, Deepin, Linux Deepin, Hiweed GNU/Linux) is a 
+Debian-based distribution that aims to provide an elegant, user-friendly and reliable operating system.
+
+<p align="center">
+<a href="https://github.com/vinberg88/debian/blob/main/Deepin-25-WSL-Deepin.txt">
 <img width="1920" height="1080" alt="Deepin-25-WSL-Deepin" src="https://github.com/user-attachments/assets/6a6a91db-77c1-4228-bbd9-00e795c715d5" />
+</p>
 
+Beautiful UI design, intimate human-computer interaction, and friendly community environment make you feel at home. Deepin is easy to
+install and can meet your work needs without additional system configuration and software installation. You can configure deepin
+as you want, but it is not necessary - optimal settings and adjustments have been applied by default to meet the usage demands of most users.
+The desktop environment and multiple applications based on the self-developed DTK not only have a beautiful UI, but also offer 
+the human-computer interaction in line with user habits. You can get started with deepin in a few minutes.
 
+FIND ME HERE: https://github.com/vinberg88
 
 ---
 
