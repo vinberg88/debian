@@ -1,6 +1,5 @@
 DEEPIN 25 and DEEPIN DESKTOP - WSL - Install DEEPIN via Deepin OS - Windows 11 - WSL - X410 - Linux - 2026
 
-
 DOWNLOAD DEEPIN OS VIA THIS LINK https://github.com/deepin-community/deepin-rootfs/tags 
 
 LOOK FOR v1.6.0 or TOP number and download deepin-wsl-rootfs-amd64.tar.gz
@@ -85,7 +84,6 @@ https://github.com/deepin-community/deepin-rootfs/tags
 Select first number for DEEPIN OS in GITHUB TO DOWNLOAD DEEPIN: v1.6.0
 
 Install DEEPIN file via RAFT WSL or via this by POWERSHELL.
-
 
 Something like this when you install DEEPIN 25 from POWERSHELL.
 
