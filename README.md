@@ -79,6 +79,13 @@ Each desktop section can include:
 - ▶️ YouTube demonstration
 
 ---
+## DEEPIN WSL FOR DEEPIN OS - 25
+
+<img width="1920" height="1080" alt="Deepin-25-WSL-Deepin" src="https://github.com/user-attachments/assets/6a6a91db-77c1-4228-bbd9-00e795c715d5" />
+
+
+
+---
 
 ## BUDGIE for Debian 13. Work well via WSL2
 
