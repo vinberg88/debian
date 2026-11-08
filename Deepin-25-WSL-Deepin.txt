@@ -8,7 +8,7 @@ LOOK FOR v1.6.0 or TOP number and download deepin-wsl-rootfs-amd64.tar.gz
 You can find DEEPIN OS FOR WSL HERE - INSTALL DEEPIN 25: https://github.com/vinberg88/debian
 
 How to install DEEPIN DESKTOP via DEEPIN 25 - WSL - TEXT via GitHUB
-Comming Sone...
+https://github.com/vinberg88/debian/blob/main/Deepin-25-WSL-Deepin.txt
 
 How to install DEEPIN DESKTOP via DEEPIN 25 - WSL - MOVIE via YouTUBE
 Comming Sone...
