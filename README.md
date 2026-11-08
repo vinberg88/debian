@@ -83,7 +83,7 @@ Each desktop section can include:
 
 📖 Installation guide — https://github.com/vinberg88/debian/blob/main/Deepin-25-WSL-Deepin.txt
 
-COMMING SONE.. ▶️ YouTube video.
+▶️ YouTube video - https://www.youtube.com/watch?v=pRU5RQV6s7w
 
 Deepin is easy to install and can meet your work needs without additional system configuration and software
 installation. You can configure deepin as you want, but it is not necessary - optimal settings and 
