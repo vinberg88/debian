@@ -1,0 +1,517 @@
+Debian 14 and MATE - Install MATE via Debian 14 and WSL - Windows 11 - Linux - X410 - 2026
+
+How to install MATE via Debian 14 - WSL - Test Via GITHUB - TEXT
+Comming SONE...
+
+How to install MATE via Debian 14 - WSL - Video Via YouTUBE - MOVIE
+Comming SONE...
+
+Download Debian 14 via this link - https://github.com/vinberg88/debian/releases
+
+Tools that i use for WSL and Debian 14 - MATE DESKTOP - 2026
+
+X410 - Xserver for windows 11 - So you have a Desktop TO See in Windows 11.
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+Raft WSL - Handel WSL image easy and Linux for WSL and Windows 11.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL.
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
+
+                        ....                   OS: Debian 14 (Forky) WSL Base x86_64 . MATE desktop
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          Host: Windows Subsystem for Linux - DS14 (3.0.5.0)
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.58.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Download Debian 14 here - https://github.com/vinberg88/debian/releases
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND MORE HERE VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL ME: vinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Want more look here - https://github.com/vinberg88/debian
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Liunx/Win Desktop - KDE 6 - Windows 11 - Debian Forky 14
+               ..';::c'  .;loooo:'             
+                                               Thanks you for testing MATE desktop via via Debian 14 ❤️ FORKY!
+
+
+About Debian 14 - https://www.debian.org - 2026
+
+Deepin 14 is easy to install and can meet your work needs without 
+additional system configuration and software installation. You
+can configure deepin as you want, but it is not necessary - 
+optimal settings and adjustments have been applied by default 
+to meet the usage demands of most users. deepin (formerly, 
+Deepin, Linux Deepin, Hiweed GNU/Linux) is a Debian-based 
+distribution that aims to provide an elegant, user-friendly
+and reliable operating system.
+
+About Mate DESKTOP FOR DEBIAN 14 - https://mate-desktop.org
+
+The traditional desktop is Mate. New to some, a classic to
+others. MATE is an intuitive attractive desktop using 
+traditional metaphors. The legacy of GNOME 2 continues to
+be modern, lightweight and fast. It provides an intuitive
+and attractive desktop environment using traditional 
+metaphors for Linux and other Unix-like operating systems.
+According to the MATE team's manifesto, they aim to keep a
+traditional desktop look and feel, maintain an open
+development model, have an open relationship with GNU/Linux 
+distributions, and serve as a good alternative for lower-end
+hardware. Mate Desktop is for All Linux USERS.
+
+Want more stuff about WSL - Windows 11 - MICROSOFT - Linux - DESKTOPS
+
+https://github.com/vinberg88
+
+Want more look here for DEBIAN 14: https://github.com/vinberg88/ubuntu
+
+WSL stands for Windows Subsystem for Linux, a feature of Windows that
+allows users to run a Linux environment directly on their Windows
+machine without needing a separate virtual machine or dual-booting.
+
+-------------------------------------------------------------
+
+Download Debian 14 via this link - https://github.com/vinberg88/debian/releases
+
+Now press the BLUE icon and you are ready to run DEBIAN 13 DONE =)
+
+Will setup User and PassWord and HOST.
+
+---------------------------------------------------------------
+
+LOGIN Normal user and run DEBIAN 14 for WSL and update and upgrade all =)
+
+sudo apt update
+sudo apt dist-upgrade
+
+---------------------------------------------------------------
+
+INSTALL SOME BASIC PROGRAMS FOR DEBIAN 14 and MATE desktopp
+
+sudo apt update
+
+sudo apt install mesa*
+
+sudo apt install nano sudo dialog
+
+sudo apt install systemd fonts-noto-mono thunar-archive-plugin mousepad policykit* ristretto xserver-xorg-input-synaptics systemd-resolved -y
+
+---------------------------------------------------------------
+
+Install Programs for DEBIAN 14 and MATE desktop - THIS TAKE SOME TIME =]
+
+sudo apt install systemd dbus dbus-broker* dialog rsync -y
+sudo apt install dbus-daemon* udev* -y
+
+sudo systemctl disable dbus-broker
+sudo systemctl enable dbus
+
+sudo mkdir -p /run/dbus
+sudo chown messagebus:messagebus /run/dbus
+
+---------------------------------------------------------------
+
+Reboot DEBIAN 14 - Reboot DEBIAN 14 - Reboot DEBIAN 14 - Reboot DEBIAN 14
+
+---------------------------------------------------------------
+
+Update All after install - UPDATE SYSTEM - DEBIAN 14
+
+sudo apt modernize-sources
+
+sudo apt update && sudo apt dist-upgrade
+
+---------------------------------------------------------------
+
+                        ....                   OS: Debian 14 (Forky) WSL Base x86_64 . MATE desktop
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          Host: Windows Subsystem for Linux - DS14 (3.0.5.0)
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.58.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Download Debian 14 here - https://github.com/vinberg88/debian/releases
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND MORE HERE VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL ME: vinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Want more look here - https://github.com/vinberg88/debian
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Liunx/Win Desktop - KDE 6 - Windows 11 - Debian Forky 14
+               ..';::c'  .;loooo:'             
+                                               Thanks you for testing MATE desktop via via Debian 14 ❤️ FORKY!
+
+---------------------------------------------------------------
+
+Save time and install firefox and thunderbird via snapd - DEBIAN 14
+
+
+sudo apt install snapd* -y
+
+sudo snap install core
+
+sudo snap install snapd
+
+sudo snap install firefox
+
+sudo snap install thunderbird
+
+
+-------------------------------------------------------------
+
+Time to install MATE desktop for DEBIAN 14
+
+sudo apt install gdm* -y
+
+sudo apt install mate-desktop mate* -y
+
+
+SELCET GDM3 IF ASKED UNDER INSTALLATION.
+
+-------------------------------------------------------------
+
+Install some more Programs for DEBIAN 14 and MATE dekstop - 2026
+
+sudo apt install mate* caja* libgtk2* flatpak* appmenu* luit* gnome-software gnome-software-plugin-flatpak pip* -y
+
+sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+
+sudo flatpak install flathub com.rafaelmardojai.Blanket
+
+-------------------------------------------------------------
+
+INSTALL MORE PROGRAMS FOR MATE Desktop and DEBIAN 14 FORKY
+
+sudo apt install tasksel -y
+
+CLICK on MATE and Debian desktop Environment in TERMINAL and install =]
+
+sudo tasksel 
+
+---------------------------------------------------------------
+
+                        ....                   OS: Debian 14 (Forky) WSL Base x86_64 . MATE desktop
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          Host: Windows Subsystem for Linux - DS14 (3.0.5.0)
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.58.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Download Debian 14 here - https://github.com/vinberg88/debian/releases
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND MORE HERE VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL ME: vinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Want more look here - https://github.com/vinberg88/debian
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Liunx/Win Desktop - KDE 6 - Windows 11 - Debian Forky 14
+               ..';::c'  .;loooo:'             
+                                               Thanks you for testing MATE desktop via via Debian 14 ❤️ FORKY!
+
+---------------------------------------------------------------
+
+Install ffmpeg, MPV and other stuff for MEDIA for DEBIAN 14
+
+sudo apt install celluloid -y
+sudo apt install yt-dlp -y
+sudo apt install mpv-mpris -y
+sudo apt install mpv -y
+sudo apt install ffmpeg* -y
+
+---------------------------------------------------------------
+
+Install Audio Packages for DEBIAN 14 FORKY and MATE desktop
+
+sudo apt install -y \
+  pulseaudio \
+  pipewire \
+  pipewire-pulse \
+  alsa-utils
+
+---------------------------------------------------------------
+
+Extra to install so all works for DEBIAN 14 FORKY and Mate desktop
+
+sudo apt install git wget curl bash pipx dracut net-tools dbus-x11 dbus systemd ibus npm pip dialog -y
+
+sudo apt install xorg* kwin* x11* qt5* gtk* -y
+
+---------------------------------------------------------------
+
+Install Themes for DEBIAN 14 FORKY and MATE desktop - IF YOU WANT..
+
+sudo apt install gnome-themes-extra gtk3* -y
+sudo apt install papirus-icon-theme -y
+sudo apt install adwaita-icon-theme-legacy -y
+sudo apt install arc-theme -y
+sudo apt install bibata-cursor-theme -y
+sudo apt install blackbird-gtk-theme -y
+sudo apt install bluebird-gtk-theme -y
+sudo apt install breeze-cursor-theme -y
+sudo apt install breeze-gtk-theme -y
+
+sudo apt install chameleon-cursor-theme -y
+sudo apt install darkblood-gtk-theme -y
+sudo apt install darkcold-gtk-theme -y
+sudo apt install darkmint-gtk-theme -y
+sudo apt install deepin-icon-theme -y
+sudo apt install dmz-cursor-theme -y
+sudo apt install elementary-xfce-icon-theme -y
+sudo apt install emerald-themes -y
+
+sudo apt install faba-icon-theme -y
+sudo apt install faenza-icon-theme -y
+sudo apt install gnome-brave-icon-theme -y
+sudo apt install gnome-icon-theme-suede -y
+sudo apt install greybird-gtk-theme -y
+sudo apt install mate-themes -y
+
+sudo apt install numix-gtk-theme -y
+sudo apt install numix-icon-theme -y
+sudo apt install orchis-gtk-theme -y
+sudo apt install tango-icon-theme -y
+sudo apt install yaru-theme-gtk -y
+
+sudo snap install icon-theme-cat
+sudo snap install cursor-theme-catppuccin
+sudo snap install gtk-theme-colloid
+sudo snap install gtk-theme-orchis
+sudo snap install gtk-theme-qogir
+sudo snap install gtk-theme-arc
+sudo snap install gtk-theme-fluent
+
+git clone https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme.git
+cd Catppuccin-GTK-Theme
+cd themes
+sudo ./install.sh
+cd
+
+---------------------------------------------------------------
+
+
+Install this small program - FASTFETCH OR HYFETCH - DEBIAN 14 FORKY.
+
+sudo apt install hyfetch fastfetch -y
+
+To test type this in terminal: hyfetch
+
+                        ....                   OS: Debian 14 (Forky) WSL Base x86_64 . MATE desktop
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          Host: Windows Subsystem for Linux - DS14 (3.0.5.0)
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.58.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Download Debian 14 here - https://github.com/vinberg88/debian/releases
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND MORE HERE VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL ME: vinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Want more look here - https://github.com/vinberg88/debian
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Liunx/Win Desktop - KDE 6 - Windows 11 - Debian Forky 14
+               ..';::c'  .;loooo:'             
+                                               Thanks you for testing MATE desktop via via Debian 14 ❤️ FORKY!
+
+---------------------------------------------------------------
+
+Network for DEBIAN 14 and MATE desktop
+
+sudo apt install \
+openssh-client openssh-server \
+mosh net-tools nmap \
+wireguard openvpn
+sudo apt install liblinear-tools liblinear-dev ncat ndiff zenmap molly-guard -y
+
+---------------------------------------------------------------
+
+Install Google Chrome Browser - Debian Forky 14
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb -y
+
+---------------------------------------------------------------
+
+Install Visual studio Code - Microsoft - Debian Forky 14
+
+sudo apt-get install wget gpg
+wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
+sudo install -D -o root -g root -m 644 packages.microsoft.gpg /etc/apt/keyrings/packages.microsoft.gpg
+echo "deb [arch=amd64,arm64,armhf signed-by=/etc/apt/keyrings/packages.microsoft.gpg] https://packages.microsoft.com/repos/code stable main" |sudo tee /etc/apt/sources.list.d/vscode.list > /dev/null
+rm -f packages.microsoft.gpg
+sudo apt install apt-transport-https apt -y
+sudo apt update
+sudo apt install code -y
+
+---------------------------------------------------------------
+
+Install Gimp 3 and Libre Office for Debian Forky 14
+
+sudo apt install gimp libreoffice -y
+
+---------------------------------------------------------------
+
+Install Blanket - Listen to sounds - Debian Forky 14
+
+sudo apt install blanket -y
+
+---------------------------------------------------------------
+
+                        ....                   OS: Debian 14 (Forky) WSL Base x86_64 . MATE desktop
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          Host: Windows Subsystem for Linux - DS14 (3.0.5.0)
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.58.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Download Debian 14 here - https://github.com/vinberg88/debian/releases
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND MORE HERE VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL ME: vinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Want more look here - https://github.com/vinberg88/debian
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Liunx/Win Desktop - KDE 6 - Windows 11 - Debian Forky 14
+               ..';::c'  .;loooo:'             
+                                               Thanks you for testing MATE desktop via via Debian 14 ❤️ FORKY!
+
+---------------------------------------------------------------
+
+Spotify for Linux is also released as a Debian 14 package - From Sweden - 2026
+
+curl -sS https://download.spotify.com/debian/pubkey_5384CE82BA52C83A.asc | sudo gpg --dearmor --yes -o /etc/apt/trusted.gpg.d/spotify.gpg
+echo "deb https://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
+sudo apt-get update && sudo apt-get install spotify-client
+
+----------------------------------------------
+
+Fix IP problem for X410. Cant find screen problem. Look for ip adress in windows terminal / PowerShell: ipconfig
+
+Save IP from PowerSHEL HERE: 172.28.32.1
+
+NOTE - Importent to look for ip. Last lines are IP-numbers for WSL.
+
+GO BACK TO Debian 14 Terminal AND COPY AND PASTE THIS IN TERMINAL.
+
+sudo apt install systemd-resolved
+sudo systemctl unmask systemd-resolved.service
+sudo systemctl enable systemd-resolved.service
+
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.28.32.1 <-- put your ip here and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+sudo cat /etc/resolv.conf
+
+DONE - alot of problem fixed for DEBIAN 14 and MATE DESKTOP
+
+-------------------------------
+
+Paste in terminal - All - Debian 14 (Forky)
+
+xdg-user-dirs-update
+sudo systemctl set-default multi-user.target
+sudo systemctl set-default graphical.target
+sudo ln -fs /usr/lib/systemd/system/graphical.target /etc/systemd/system/default.target
+
+--------------------------------------------
+
+ADD THIS SMALL SCRIPT FOR DEBIAN 14 and MATE
+
+Type this in terminal and put your username there: sudo loginctl enable-linger adolf
+
+--------------------------------------------
+
+Make small script for Debian 14 (Forky) and MATE so it works.
+
+Copy this and paste in terminal: sudo nano ~/.wsl_x11_env
+
+Then add this script to terminal
+
+export XDG_SESSION_TYPE=x11
+export XDG_SESSION_CLASS=user
+export GDK_BACKEND=x11
+
+export LIBGL_ALWAYS_SOFTWARE=1
+
+------------------------------------------------------
+
+Debian 14 Reboot - Debian 14 Reboot . Debian 14 Reboot.
+
+------------------------------------------------------
+
+Now we can start MATE desktop via Debian 14 (Forky)
+
+
+FIRST START X410 XSERVER THEN YOU START Debian 14 from TERMINAL.
+
+
+Paste in terminal for Debian: export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+
+Paste in terminal for debian: . ~/.wsl_x11_env
+
+Type in terminal and start MATE: dbus-launch mate-session
+
+
+  Just wait when you start MATE and Debian 14 .. It will work fine =)
+
+---------------------------------------------------------------
+
+Regards Mattias Vinberg - SwEden - MATE - Debian 14 - Linux - WSL - X410 - WINDOWS - STOCKHOLM - 2026
+
+
+                        ....                   OS: Debian 14 (Forky) WSL Base x86_64 . MATE desktop
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          Host: Windows Subsystem for Linux - DS14 (3.0.5.0)
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.58.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Download Debian 14 here - https://github.com/vinberg88/debian/releases
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND MORE HERE VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL ME: vinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Want more look here - https://github.com/vinberg88/debian
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Liunx/Win Desktop - KDE 6 - Windows 11 - Debian Forky 14
+               ..';::c'  .;loooo:'             
+                                               Thanks you for testing MATE desktop via via Debian 14 ❤️ FORKY!
+
+
+
+© 2026 DEBIAN 14 are registered trademarks of DEBIAN LTD - 2026
+
+---------------------------------------------------------------
