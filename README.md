@@ -38,7 +38,7 @@ The goal is to keep the base installation clean and let you decide which desktop
 | **Debian 13 — Trixie** | KDE 6 | ✅ Not Ready |
 | **Debian 14 — Forky** | KDE 6 | ✅ Ready |
 | **Debian 14 — Forky** | Cinnamon | ✅ Ready |
-| **Debian 14 — Forky** | MATE DE | ✅ Comming |
+| **Debian 14 — Forky** | MATE DE | ✅ Ready |
 
 Both distributions are designed for WSL2 with **systemd**, Windows interoperability and support for graphical Linux applications.
 
