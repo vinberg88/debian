@@ -4,7 +4,7 @@ How to install MATE via Debian 14 - WSL - Test Via GITHUB - TEXT
 https://github.com/vinberg88/debian/blob/main/DEBIAN-14-MATE.txt
 
 How to install MATE via Debian 14 - WSL - Video Via YouTUBE - MOVIE
-Comming SONE...
+https://www.youtube.com/watch?v=Ols4a9huxlc
 
 Download Debian 14 via this link - https://github.com/vinberg88/debian/releases
 
