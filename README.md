@@ -88,7 +88,7 @@ Deepin 14 is easy to install and can meet your work needs without additional sys
 
 📖 Installation guide via TEXT — https://github.com/vinberg88/debian/blob/main/DEBIAN-14-MATE.txt
 
-▶️ YouTube video — COMMING SONE
+▶️ YouTube video — https://www.youtube.com/watch?v=Ols4a9huxlc
 
 <p align="center">
 <a href="https://github.com/vinberg88/debian/blob/main/DEBIAN-14-MATE.txt">
