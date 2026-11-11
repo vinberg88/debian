@@ -84,12 +84,14 @@ Each desktop section can include:
 
 DEBIAN 14 AND MATE DESKTOP FOR WSL - 2026
 
-📖 Installation guide — https://github.com/vinberg88/debian/blob/main/DEBIAN-13-BUDGIE.txt 
+Deepin 14 is easy to install and can meet your work needs without additional system configuration and software installation.
+
+📖 Installation guide via TEXT — https://github.com/vinberg88/debian/blob/main/DEBIAN-14-MATE.txt
 
 ▶️ YouTube video — COMMING SONE
 
 <p align="center">
-<a href="https://github.com/vinberg88/debian/blob/main/Deepin-25-WSL-Deepin.txt">
+<a href="https://github.com/vinberg88/debian/blob/main/DEBIAN-14-MATE.txt">
 <img width="1920" height="1080" alt="DEBIAN-14-MATE" src="https://github.com/user-attachments/assets/1a0be20b-3ce4-4ecd-985a-072ddf621131" />
 </p>
 
