@@ -81,6 +81,29 @@ Each desktop section can include:
 - ▶️ YouTube demonstration
 
 ---
+
+DEBIAN 14 AND MATE DESKTOP FOR WSL - 2026
+
+📖 Installation guide — https://github.com/vinberg88/debian/blob/main/DEBIAN-13-BUDGIE.txt 
+
+▶️ YouTube video — COMMING SONE
+
+<p align="center">
+<a href="https://github.com/vinberg88/debian/blob/main/Deepin-25-WSL-Deepin.txt">
+<img width="1920" height="1080" alt="DEBIAN-14-MATE" src="https://github.com/user-attachments/assets/1a0be20b-3ce4-4ecd-985a-072ddf621131" />
+</p>
+
+About Mate DESKTOP FOR DEBIAN - https://mate-desktop.org
+
+The traditional desktop is Mate. New to some, a classic to others. MATE is an intuitive attractive desktop using 
+traditional metaphors. The legacy of GNOME 2 continues to be modern, lightweight and fast. It provides an intuitive
+and attractive desktop environment using traditional metaphors for Linux and other Unix-like operating systems.
+According to the MATE team's manifesto, they aim to keep a traditional desktop look and feel, maintain an open development 
+model, have an open relationship with GNU/Linux distributions, and serve as a good alternative for lower-end
+hardware. Mate Desktop is for All Linux USERS.
+
+---
+
 ## DEEPIN WSL FOR DEEPIN OS - 25
 
 📖 Installation guide — https://github.com/vinberg88/debian/blob/main/Deepin-25-WSL-Deepin.txt
