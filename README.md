@@ -35,7 +35,7 @@ The goal is to keep the base installation clean and let you decide which desktop
 | **Deepin 25 — WSL image** | DEEPIN | ✅ Ready |
 | **Debian 13 — Trixie** | Budige | ✅ Ready |
 | **Debian 13 — Trixie** | GNOME | ✅ Ready |
-| **Debian 13 — Trixie** | KDE 6 | ✅ Not Ready |
+| **Debian 13 — Trixie** | KDE 6 | ✅ Ready |
 | **Debian 14 — Forky** | KDE 6 | ✅ Ready |
 | **Debian 14 — Forky** | Cinnamon | ✅ Ready |
 | **Debian 14 — Forky** | MATE DE | ✅ Ready |
@@ -145,7 +145,7 @@ Make Budgie Your Own With our Budgie Desktop Settings application, you can make 
 
 ---
 
-## KDE 6 for Debian 13 - Full version of KDE 6 - Comming SONE. 
+## KDE 6 for Debian 13 - Full version of KDE 6 
 
 <img width="1920" height="1080" alt="Debian-13-KDE" src="https://github.com/user-attachments/assets/a5c77b59-8009-4a88-aa47-a9c4aecd1a03" />
 
@@ -153,7 +153,7 @@ Use KDE 6 for Debian 13 to surf the web, keep in touch with colleagues, manage y
 
 📖 Installation guide — https://github.com/vinberg88/debian/blob/main/Debian-13-KDE.txt
 
-▶️ **YouTube video — coming soon**
+▶️ YouTube video — https://www.youtube.com/watch?v=YThOIPHWiuk
 
 ---
 
